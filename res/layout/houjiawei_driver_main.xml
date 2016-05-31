@@ -1,0 +1,161 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="250dp"
+    android:orientation="vertical"
+    android:clickable="false"
+    android:focusable="false"
+    android:background="#00000000">
+
+    <RelativeLayout
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content" >
+
+        <RelativeLayout
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content" >
+
+            <ImageView
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:layout_marginLeft="130dp"
+                android:src="@drawable/anjianjieguo" />
+
+            <TextView
+                android:id="@+id/driver_anjian"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:layout_centerVertical="true"
+                android:layout_marginLeft="300dp"
+                android:layout_marginTop="20dp"
+                android:text="合格"
+                android:textColor="@color/Green"
+                android:textSize="20sp" />
+        </RelativeLayout>
+
+        <ImageView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_marginLeft="130dp"
+            android:layout_marginTop="80dp"
+            android:src="@drawable/baobanjieguo" />
+
+        <RelativeLayout
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content" >
+            
+              <FrameLayout 
+                    android:layout_width="130dp"
+                    android:layout_height="150dp"
+                    android:layout_marginTop="10dp"
+                    android:layout_marginLeft="20dp"
+                    android:background="@drawable/photo">
+               <LinearLayout 
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:layout_gravity="center"
+                android:orientation="vertical">
+                <ProgressBar
+                    android:id="@+id/progressBar1"
+                    style="?android:attr/progressBarStyleLarge"
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    android:layout_gravity="center" />
+                <TextView android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    android:text="玩命加载中 \n Loading..."
+                    android:textColor="@color/gray"
+                    android:gravity="center_horizontal"/>
+                
+                </LinearLayout>
+             <ImageView
+                android:id="@+id/driver_photo"
+                android:layout_width="130dp"
+                android:layout_height="150dp"
+                android:scaleType="fitCenter"
+                 />
+
+                </FrameLayout>
+
+          
+
+            <TextView
+                android:id="@+id/driver_baoban"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:layout_centerVertical="true"
+                android:layout_marginLeft="300dp"
+                android:layout_marginTop="220dp"
+                android:text="完成"
+                android:textColor="@color/Green"
+                android:textSize="20sp" />
+        </RelativeLayout>
+
+        <RelativeLayout
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_marginTop="160dp" >
+
+            <ImageView
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:src="@drawable/xinxi" />
+
+            <TextView
+                android:id="@+id/driver_id"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:layout_marginLeft="150dp"
+                android:layout_marginTop="40dp"
+                android:text="11213654367"
+                android:textColor="@color/Black"
+                android:textSize="20sp"
+                android:typeface="monospace" />
+
+            <TextView
+                android:id="@+id/driver_name"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:layout_marginLeft="175dp"
+                android:layout_marginTop="78dp"
+                android:text="程哈哈"
+                android:textColor="@color/Black"
+                android:textSize="20sp"
+                android:typeface="monospace" />
+
+            <TextView
+                android:id="@+id/driver_tel"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:layout_marginLeft="150dp"
+                android:layout_marginTop="120dp"
+                android:text="15527951209"
+                android:textColor="@color/Black"
+                android:textSize="20sp"
+                android:typeface="monospace" />
+
+            <TextView
+                android:id="@+id/driver_adultNum"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:layout_marginLeft="150dp"
+                android:layout_marginTop="160dp"
+                android:text="42011512356"
+                android:textColor="@color/Black"
+                android:textSize="20sp"
+                android:typeface="monospace" />
+            
+              <TextView
+                android:id="@+id/driver_ID_card"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:layout_marginLeft="150dp"
+                android:layout_marginTop="203dp"
+                android:text="342501199303086476"
+                android:textSize="20sp"
+                android:textColor="@color/Black"
+                android:typeface="monospace" />
+        </RelativeLayout>
+    </RelativeLayout>
+
+</LinearLayout>

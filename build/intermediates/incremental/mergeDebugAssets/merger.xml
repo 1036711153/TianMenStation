@@ -1,0 +1,2 @@
+<?xml version="1.0" encoding="utf-8"?>
+<merger version="3"><dataSet config="main"><source path="E:\tianmen\Authentication5.0\assets"><file name="litepal.xml" path="E:\tianmen\Authentication5.0\assets\litepal.xml"/><file name="microlog.properties" path="E:\tianmen\Authentication5.0\assets\microlog.properties"/></source></dataSet><dataSet config="debug"><source path="E:\tianmen\Authentication5.0\build-types\debug\assets"/></dataSet></merger>

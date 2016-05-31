@@ -1,0 +1,126 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:background="@drawable/mget5">
+
+    <com.custom.View.SlidingMenu
+        android:id="@+id/id_menu"
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        app:rightPadding="80dp">
+
+        <LinearLayout
+            android:layout_width="wrap_content"
+            android:layout_height="match_parent"
+            android:orientation="horizontal">
+
+            <include layout="@layout/activity_user_center" />
+
+
+            <LinearLayout                android:layout_width="match_parent"
+                android:layout_height="match_parent"
+                android:orientation="vertical"
+                android:background="@drawable/bg">
+
+                <RelativeLayout
+                    android:layout_width="match_parent"
+                    android:layout_height="80dp">
+
+                    <ImageView
+                        android:layout_width="match_parent"
+                        android:layout_height="80dp"
+                        android:background="@drawable/choose" />
+
+                    <Button
+                        android:id="@+id/close_menu"
+                        android:layout_width="wrap_content"
+                        android:layout_height="wrap_content"
+                        android:layout_centerVertical="true"
+                        android:background="@drawable/btn_user_center_pressed" />
+                </RelativeLayout>
+
+
+                <LinearLayout
+                    android:layout_marginTop="30dp"
+                    android:layout_width="match_parent"
+                    android:layout_height="match_parent"
+                    android:orientation="vertical">
+
+                    <LinearLayout
+                        android:layout_width="match_parent"
+                        android:layout_height="wrap_content"
+                        android:layout_marginLeft="40dp"
+                        android:layout_marginRight="40dp"
+                        android:orientation="horizontal">
+
+                        <Button
+                            android:id="@+id/btn_instation"
+                            android:layout_width="0dp"
+                            android:layout_height="wrap_content"
+                            android:layout_weight="1"
+                            android:background="@drawable/jinzhancheck3"
+                            android:clickable="false"
+                            android:enabled="false" />
+
+                        <TextView
+                            android:layout_width="20dp"
+                            android:layout_height="wrap_content" />
+
+                        <Button
+                            android:id="@+id/btn_anjian"
+                            android:layout_width="0dp"
+                            android:layout_height="wrap_content"
+                            android:layout_weight="1"
+                            android:background="@drawable/anquanmokuai3"
+                            android:clickable="false"
+                            android:enabled="false" />
+                    </LinearLayout>
+
+                    <LinearLayout
+                        android:layout_width="match_parent"
+                        android:layout_height="wrap_content"
+                        android:layout_marginLeft="40dp"
+                        android:layout_marginRight="40dp"
+                        android:layout_marginTop="20dp"
+                        android:orientation="horizontal">
+
+                        <Button
+                            android:id="@+id/btn_outstaion"
+                            android:layout_width="0dp"
+                            android:layout_height="wrap_content"
+                            android:layout_weight="1"
+                            android:background="@drawable/chuzhanmokuai3"
+                            android:clickable="false"
+                            android:enabled="false" />
+
+                        <TextView
+                            android:layout_width="20dp"
+                            android:layout_height="wrap_content" />
+
+                        <Button
+                            android:id="@+id/btn_tongbu"
+                            android:layout_width="0dp"
+                            android:layout_height="wrap_content"
+                            android:layout_weight="1"
+                            android:background="@drawable/btn_tongbumodule_pressed" />
+                    </LinearLayout>
+
+
+                    <Button
+                        android:id="@+id/btn_canshu"
+                        android:layout_width="match_parent"
+                        android:layout_height="wrap_content"
+                        android:layout_marginLeft="40dp"
+                        android:layout_marginRight="40dp"
+                        android:layout_marginTop="20dp"
+                        android:background="@drawable/canshumokuai3"
+                        android:clickable="false"
+                        android:enabled="false" />
+                </LinearLayout>
+            </LinearLayout>
+        </LinearLayout>
+    </com.custom.View.SlidingMenu>
+
+</RelativeLayout>

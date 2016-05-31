@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="mColor1">#FFDF4288</color>
+    <color name="mColor2">#FFCD8BF8</color>
+    <color name="mColor3">#FF2B9DF2</color>
+    <color name="mColor4">#FFA4EEB4</color>
+    <color name="mColor5">#FFE097CA</color>
+    <string name="app_name">My Library</string>
+</resources>

@@ -1,0 +1,614 @@
+[
+    {
+        "merged": "E:\\tianmen\\Authentication5.0\\build\\intermediates\\res\\merged\\debug\\layout\\abc_action_bar_up_container.xml",
+        "source": "E:\\tianmen\\Authentication5.0\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.2.0\\res\\layout\\abc_action_bar_up_container.xml"
+    },
+    {
+        "merged": "E:\\tianmen\\Authentication5.0\\build\\intermediates\\res\\merged\\debug\\layout\\design_layout_snackbar_include.xml",
+        "source": "E:\\tianmen\\Authentication5.0\\build\\intermediates\\exploded-aar\\com.android.support\\design\\23.2.0\\res\\layout\\design_layout_snackbar_include.xml"
+    },
+    {
+        "merged": "E:\\tianmen\\Authentication5.0\\build\\intermediates\\res\\merged\\debug\\layout\\design_navigation_item_separator.xml",
+        "source": "E:\\tianmen\\Authentication5.0\\build\\intermediates\\exploded-aar\\com.android.support\\design\\23.2.0\\res\\layout\\design_navigation_item_separator.xml"
+    },
+    {
+        "merged": "E:\\tianmen\\Authentication5.0\\build\\intermediates\\res\\merged\\debug\\layout\\type_b_activity.xml",
+        "source": "E:\\tianmen\\Authentication5.0\\res\\layout\\type_b_activity.xml"
+    },
+    {
+        "merged": "E:\\tianmen\\Authentication5.0\\build\\intermediates\\res\\merged\\debug\\layout\\menu_dialog.xml",
+        "source": "E:\\tianmen\\Authentication5.0\\res\\layout\\menu_dialog.xml"
+    },
+    {
+        "merged": "E:\\tianmen\\Authentication5.0\\build\\intermediates\\res\\merged\\debug\\layout\\main_tab_instation.xml",
+        "source": "E:\\tianmen\\Authentication5.0\\res\\layout\\main_tab_instation.xml"
+    },
+    {
+        "merged": "E:\\tianmen\\Authentication5.0\\build\\intermediates\\res\\merged\\debug\\layout\\module_tongbu.xml",
+        "source": "E:\\tianmen\\Authentication5.0\\res\\layout\\module_tongbu.xml"
+    },
+    {
+        "merged": "E:\\tianmen\\Authentication5.0\\build\\intermediates\\res\\merged\\debug\\layout\\slidingmenu.xml",
+        "source": "E:\\tianmen\\Authentication5.0\\res\\layout\\slidingmenu.xml"
+    },
+    {
+        "merged": "E:\\tianmen\\Authentication5.0\\build\\intermediates\\res\\merged\\debug\\layout\\sdl_main.xml",
+        "source": "E:\\tianmen\\Authentication5.0\\res\\layout\\sdl_main.xml"
+    },
+    {
+        "merged": "E:\\tianmen\\Authentication5.0\\build\\intermediates\\res\\merged\\debug\\layout\\abc_action_menu_item_layout.xml",
+        "source": "E:\\tianmen\\Authentication5.0\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.2.0\\res\\layout\\abc_action_menu_item_layout.xml"
+    },
+    {
+        "merged": "E:\\tianmen\\Authentication5.0\\build\\intermediates\\res\\merged\\debug\\layout\\select_dialog_item_material.xml",
+        "source": "E:\\tianmen\\Authentication5.0\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.2.0\\res\\layout\\select_dialog_item_material.xml"
+    },
+    {
+        "merged": "E:\\tianmen\\Authentication5.0\\build\\intermediates\\res\\merged\\debug\\layout\\abc_list_menu_item_icon.xml",
+        "source": "E:\\tianmen\\Authentication5.0\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.2.0\\res\\layout\\abc_list_menu_item_icon.xml"
+    },
+    {
+        "merged": "E:\\tianmen\\Authentication5.0\\build\\intermediates\\res\\merged\\debug\\layout\\abc_action_menu_layout.xml",
+        "source": "E:\\tianmen\\Authentication5.0\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.2.0\\res\\layout\\abc_action_menu_layout.xml"
+    },
+    {
+        "merged": "E:\\tianmen\\Authentication5.0\\build\\intermediates\\res\\merged\\debug\\layout\\datalist.xml",
+        "source": "E:\\tianmen\\Authentication5.0\\res\\layout\\datalist.xml"
+    },
+    {
+        "merged": "E:\\tianmen\\Authentication5.0\\build\\intermediates\\res\\merged\\debug\\layout\\inputnumber_dialog_hk.xml",
+        "source": "E:\\tianmen\\Authentication5.0\\res\\layout\\inputnumber_dialog_hk.xml"
+    },
+    {
+        "merged": "E:\\tianmen\\Authentication5.0\\build\\intermediates\\res\\merged\\debug\\layout\\abc_list_menu_item_radio.xml",
+        "source": "E:\\tianmen\\Authentication5.0\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.2.0\\res\\layout\\abc_list_menu_item_radio.xml"
+    },
+    {
+        "merged": "E:\\tianmen\\Authentication5.0\\build\\intermediates\\res\\merged\\debug\\layout\\m1card_activity.xml",
+        "source": "E:\\tianmen\\Authentication5.0\\res\\layout\\m1card_activity.xml"
+    },
+    {
+        "merged": "E:\\tianmen\\Authentication5.0\\build\\intermediates\\res\\merged\\debug\\layout\\control.xml",
+        "source": "E:\\tianmen\\Authentication5.0\\res\\layout\\control.xml"
+    },
+    {
+        "merged": "E:\\tianmen\\Authentication5.0\\build\\intermediates\\res\\merged\\debug\\layout\\design_layout_snackbar.xml",
+        "source": "E:\\tianmen\\Authentication5.0\\build\\intermediates\\exploded-aar\\com.android.support\\design\\23.2.0\\res\\layout\\design_layout_snackbar.xml"
+    },
+    {
+        "merged": "E:\\tianmen\\Authentication5.0\\build\\intermediates\\res\\merged\\debug\\layout\\activity_iccard.xml",
+        "source": "E:\\tianmen\\Authentication5.0\\res\\layout\\activity_iccard.xml"
+    },
+    {
+        "merged": "E:\\tianmen\\Authentication5.0\\build\\intermediates\\res\\merged\\debug\\layout\\barcode_setting_activity.xml",
+        "source": "E:\\tianmen\\Authentication5.0\\res\\layout\\barcode_setting_activity.xml"
+    },
+    {
+        "merged": "E:\\tianmen\\Authentication5.0\\build\\intermediates\\res\\merged\\debug\\layout\\register_finger.xml",
+        "source": "E:\\tianmen\\Authentication5.0\\res\\layout\\register_finger.xml"
+    },
+    {
+        "merged": "E:\\tianmen\\Authentication5.0\\build\\intermediates\\res\\merged\\debug\\layout\\houjiawei_outstation_aty.xml",
+        "source": "E:\\tianmen\\Authentication5.0\\res\\layout\\houjiawei_outstation_aty.xml"
+    },
+    {
+        "merged": "E:\\tianmen\\Authentication5.0\\build\\intermediates\\res\\merged\\debug\\layout\\houjiawei_top_main_1.xml",
+        "source": "E:\\tianmen\\Authentication5.0\\res\\layout\\houjiawei_top_main_1.xml"
+    },
+    {
+        "merged": "E:\\tianmen\\Authentication5.0\\build\\intermediates\\res\\merged\\debug\\layout\\abc_alert_dialog_material.xml",
+        "source": "E:\\tianmen\\Authentication5.0\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.2.0\\res\\layout\\abc_alert_dialog_material.xml"
+    },
+    {
+        "merged": "E:\\tianmen\\Authentication5.0\\build\\intermediates\\res\\merged\\debug\\layout\\abc_search_dropdown_item_icons_2line.xml",
+        "source": "E:\\tianmen\\Authentication5.0\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.2.0\\res\\layout\\abc_search_dropdown_item_icons_2line.xml"
+    },
+    {
+        "merged": "E:\\tianmen\\Authentication5.0\\build\\intermediates\\res\\merged\\debug\\layout\\anjian_pop_main.xml",
+        "source": "E:\\tianmen\\Authentication5.0\\res\\layout\\anjian_pop_main.xml"
+    },
+    {
+        "merged": "E:\\tianmen\\Authentication5.0\\build\\intermediates\\res\\merged\\debug\\layout\\inspectionuncomment_activity.xml",
+        "source": "E:\\tianmen\\Authentication5.0\\res\\layout\\inspectionuncomment_activity.xml"
+    },
+    {
+        "merged": "E:\\tianmen\\Authentication5.0\\build\\intermediates\\res\\merged\\debug\\layout\\four_module.xml",
+        "source": "E:\\tianmen\\Authentication5.0\\res\\layout\\four_module.xml"
+    },
+    {
+        "merged": "E:\\tianmen\\Authentication5.0\\build\\intermediates\\res\\merged\\debug\\layout\\main_tab_anjian.xml",
+        "source": "E:\\tianmen\\Authentication5.0\\res\\layout\\main_tab_anjian.xml"
+    },
+    {
+        "merged": "E:\\tianmen\\Authentication5.0\\build\\intermediates\\res\\merged\\debug\\layout\\instationchoose_activity.xml",
+        "source": "E:\\tianmen\\Authentication5.0\\res\\layout\\instationchoose_activity.xml"
+    },
+    {
+        "merged": "E:\\tianmen\\Authentication5.0\\build\\intermediates\\res\\merged\\debug\\layout\\write_data_item.xml",
+        "source": "E:\\tianmen\\Authentication5.0\\res\\layout\\write_data_item.xml"
+    },
+    {
+        "merged": "E:\\tianmen\\Authentication5.0\\build\\intermediates\\res\\merged\\debug\\layout\\gga.xml",
+        "source": "E:\\tianmen\\Authentication5.0\\res\\layout\\gga.xml"
+    },
+    {
+        "merged": "E:\\tianmen\\Authentication5.0\\build\\intermediates\\res\\merged\\debug\\layout\\instation_scan_main.xml",
+        "source": "E:\\tianmen\\Authentication5.0\\res\\layout\\instation_scan_main.xml"
+    },
+    {
+        "merged": "E:\\tianmen\\Authentication5.0\\build\\intermediates\\res\\merged\\debug\\layout\\design_layout_tab_text.xml",
+        "source": "E:\\tianmen\\Authentication5.0\\build\\intermediates\\exploded-aar\\com.android.support\\design\\23.2.0\\res\\layout\\design_layout_tab_text.xml"
+    },
+    {
+        "merged": "E:\\tianmen\\Authentication5.0\\build\\intermediates\\res\\merged\\debug\\layout\\dialog_normal_layout.xml",
+        "source": "E:\\tianmen\\Authentication5.0\\res\\layout\\dialog_normal_layout.xml"
+    },
+    {
+        "merged": "E:\\tianmen\\Authentication5.0\\build\\intermediates\\res\\merged\\debug\\layout\\houjiawei_outstation_aty3.xml",
+        "source": "E:\\tianmen\\Authentication5.0\\res\\layout\\houjiawei_outstation_aty3.xml"
+    },
+    {
+        "merged": "E:\\tianmen\\Authentication5.0\\build\\intermediates\\res\\merged\\debug\\layout\\anjian_top_main_a.xml",
+        "source": "E:\\tianmen\\Authentication5.0\\res\\layout\\anjian_top_main_a.xml"
+    },
+    {
+        "merged": "E:\\tianmen\\Authentication5.0\\build\\intermediates\\res\\merged\\debug\\layout\\support_simple_spinner_dropdown_item.xml",
+        "source": "E:\\tianmen\\Authentication5.0\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.2.0\\res\\layout\\support_simple_spinner_dropdown_item.xml"
+    },
+    {
+        "merged": "E:\\tianmen\\Authentication5.0\\build\\intermediates\\res\\merged\\debug\\layout\\abc_screen_simple.xml",
+        "source": "E:\\tianmen\\Authentication5.0\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.2.0\\res\\layout\\abc_screen_simple.xml"
+    },
+    {
+        "merged": "E:\\tianmen\\Authentication5.0\\build\\intermediates\\res\\merged\\debug\\layout\\notification_template_part_chronometer.xml",
+        "source": "E:\\tianmen\\Authentication5.0\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.2.0\\res\\layout\\notification_template_part_chronometer.xml"
+    },
+    {
+        "merged": "E:\\tianmen\\Authentication5.0\\build\\intermediates\\res\\merged\\debug\\layout\\instationact3.xml",
+        "source": "E:\\tianmen\\Authentication5.0\\res\\layout\\instationact3.xml"
+    },
+    {
+        "merged": "E:\\tianmen\\Authentication5.0\\build\\intermediates\\res\\merged\\debug\\layout\\design_navigation_item_subheader.xml",
+        "source": "E:\\tianmen\\Authentication5.0\\build\\intermediates\\exploded-aar\\com.android.support\\design\\23.2.0\\res\\layout\\design_navigation_item_subheader.xml"
+    },
+    {
+        "merged": "E:\\tianmen\\Authentication5.0\\build\\intermediates\\res\\merged\\debug\\layout\\satellite_item.xml",
+        "source": "E:\\tianmen\\Authentication5.0\\res\\layout\\satellite_item.xml"
+    },
+    {
+        "merged": "E:\\tianmen\\Authentication5.0\\build\\intermediates\\res\\merged\\debug\\layout\\abc_alert_dialog_button_bar_material.xml",
+        "source": "E:\\tianmen\\Authentication5.0\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.2.0\\res\\layout\\abc_alert_dialog_button_bar_material.xml"
+    },
+    {
+        "merged": "E:\\tianmen\\Authentication5.0\\build\\intermediates\\res\\merged\\debug\\layout\\design_navigation_menu_item.xml",
+        "source": "E:\\tianmen\\Authentication5.0\\build\\intermediates\\exploded-aar\\com.android.support\\design\\23.2.0\\res\\layout\\design_navigation_menu_item.xml"
+    },
+    {
+        "merged": "E:\\tianmen\\Authentication5.0\\build\\intermediates\\res\\merged\\debug\\layout\\activity_config.xml",
+        "source": "E:\\tianmen\\Authentication5.0\\res\\layout\\activity_config.xml"
+    },
+    {
+        "merged": "E:\\tianmen\\Authentication5.0\\build\\intermediates\\res\\merged\\debug\\layout\\rfid_activity.xml",
+        "source": "E:\\tianmen\\Authentication5.0\\res\\layout\\rfid_activity.xml"
+    },
+    {
+        "merged": "E:\\tianmen\\Authentication5.0\\build\\intermediates\\res\\merged\\debug\\layout\\anjian_tongbu_main.xml",
+        "source": "E:\\tianmen\\Authentication5.0\\res\\layout\\anjian_tongbu_main.xml"
+    },
+    {
+        "merged": "E:\\tianmen\\Authentication5.0\\build\\intermediates\\res\\merged\\debug\\layout\\houjiawei_outstation_aty2.xml",
+        "source": "E:\\tianmen\\Authentication5.0\\res\\layout\\houjiawei_outstation_aty2.xml"
+    },
+    {
+        "merged": "E:\\tianmen\\Authentication5.0\\build\\intermediates\\res\\merged\\debug\\layout\\activity_uhf.xml",
+        "source": "E:\\tianmen\\Authentication5.0\\res\\layout\\activity_uhf.xml"
+    },
+    {
+        "merged": "E:\\tianmen\\Authentication5.0\\build\\intermediates\\res\\merged\\debug\\layout\\exitstationchoose_activity.xml",
+        "source": "E:\\tianmen\\Authentication5.0\\res\\layout\\exitstationchoose_activity.xml"
+    },
+    {
+        "merged": "E:\\tianmen\\Authentication5.0\\build\\intermediates\\res\\merged\\debug\\layout\\abc_select_dialog_material.xml",
+        "source": "E:\\tianmen\\Authentication5.0\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.2.0\\res\\layout\\abc_select_dialog_material.xml"
+    },
+    {
+        "merged": "E:\\tianmen\\Authentication5.0\\build\\intermediates\\res\\merged\\debug\\layout\\abc_screen_content_include.xml",
+        "source": "E:\\tianmen\\Authentication5.0\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.2.0\\res\\layout\\abc_screen_content_include.xml"
+    },
+    {
+        "merged": "E:\\tianmen\\Authentication5.0\\build\\intermediates\\res\\merged\\debug\\layout\\exitstation_unconvention_activity.xml",
+        "source": "E:\\tianmen\\Authentication5.0\\res\\layout\\exitstation_unconvention_activity.xml"
+    },
+    {
+        "merged": "E:\\tianmen\\Authentication5.0\\build\\intermediates\\res\\merged\\debug\\layout\\sfz_activity.xml",
+        "source": "E:\\tianmen\\Authentication5.0\\res\\layout\\sfz_activity.xml"
+    },
+    {
+        "merged": "E:\\tianmen\\Authentication5.0\\build\\intermediates\\res\\merged\\debug\\layout\\main_activity.xml",
+        "source": "E:\\tianmen\\Authentication5.0\\res\\layout\\main_activity.xml"
+    },
+    {
+        "merged": "E:\\tianmen\\Authentication5.0\\build\\intermediates\\res\\merged\\debug\\layout\\design_navigation_menu.xml",
+        "source": "E:\\tianmen\\Authentication5.0\\build\\intermediates\\exploded-aar\\com.android.support\\design\\23.2.0\\res\\layout\\design_navigation_menu.xml"
+    },
+    {
+        "merged": "E:\\tianmen\\Authentication5.0\\build\\intermediates\\res\\merged\\debug\\layout\\abc_screen_simple_overlay_action_mode.xml",
+        "source": "E:\\tianmen\\Authentication5.0\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.2.0\\res\\layout\\abc_screen_simple_overlay_action_mode.xml"
+    },
+    {
+        "merged": "E:\\tianmen\\Authentication5.0\\build\\intermediates\\res\\merged\\debug\\layout\\main_weixin.xml",
+        "source": "E:\\tianmen\\Authentication5.0\\res\\layout\\main_weixin.xml"
+    },
+    {
+        "merged": "E:\\tianmen\\Authentication5.0\\build\\intermediates\\res\\merged\\debug\\layout\\intput_car_adpter.xml",
+        "source": "E:\\tianmen\\Authentication5.0\\res\\layout\\intput_car_adpter.xml"
+    },
+    {
+        "merged": "E:\\tianmen\\Authentication5.0\\build\\intermediates\\res\\merged\\debug\\layout\\image.xml",
+        "source": "E:\\tianmen\\Authentication5.0\\res\\layout\\image.xml"
+    },
+    {
+        "merged": "E:\\tianmen\\Authentication5.0\\build\\intermediates\\res\\merged\\debug\\layout\\menu_item.xml",
+        "source": "E:\\tianmen\\Authentication5.0\\res\\layout\\menu_item.xml"
+    },
+    {
+        "merged": "E:\\tianmen\\Authentication5.0\\build\\intermediates\\res\\merged\\debug\\layout\\design_navigation_item_header.xml",
+        "source": "E:\\tianmen\\Authentication5.0\\build\\intermediates\\exploded-aar\\com.android.support\\design\\23.2.0\\res\\layout\\design_navigation_item_header.xml"
+    },
+    {
+        "merged": "E:\\tianmen\\Authentication5.0\\build\\intermediates\\res\\merged\\debug\\layout\\select_dialog_multichoice_material.xml",
+        "source": "E:\\tianmen\\Authentication5.0\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.2.0\\res\\layout\\select_dialog_multichoice_material.xml"
+    },
+    {
+        "merged": "E:\\tianmen\\Authentication5.0\\build\\intermediates\\res\\merged\\debug\\layout\\abc_list_menu_item_checkbox.xml",
+        "source": "E:\\tianmen\\Authentication5.0\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.2.0\\res\\layout\\abc_list_menu_item_checkbox.xml"
+    },
+    {
+        "merged": "E:\\tianmen\\Authentication5.0\\build\\intermediates\\res\\merged\\debug\\layout\\anjian_circle_menu_item.xml",
+        "source": "E:\\tianmen\\Authentication5.0\\res\\layout\\anjian_circle_menu_item.xml"
+    },
+    {
+        "merged": "E:\\tianmen\\Authentication5.0\\build\\intermediates\\res\\merged\\debug\\layout\\abc_action_mode_close_item_material.xml",
+        "source": "E:\\tianmen\\Authentication5.0\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.2.0\\res\\layout\\abc_action_mode_close_item_material.xml"
+    },
+    {
+        "merged": "E:\\tianmen\\Authentication5.0\\build\\intermediates\\res\\merged\\debug\\layout\\take_picture_activity.xml",
+        "source": "E:\\tianmen\\Authentication5.0\\res\\layout\\take_picture_activity.xml"
+    },
+    {
+        "merged": "E:\\tianmen\\Authentication5.0\\build\\intermediates\\res\\merged\\debug\\layout\\surface.xml",
+        "source": "E:\\tianmen\\Authentication5.0\\res\\layout\\surface.xml"
+    },
+    {
+        "merged": "E:\\tianmen\\Authentication5.0\\build\\intermediates\\res\\merged\\debug\\layout\\abc_dialog_title_material.xml",
+        "source": "E:\\tianmen\\Authentication5.0\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.2.0\\res\\layout\\abc_dialog_title_material.xml"
+    },
+    {
+        "merged": "E:\\tianmen\\Authentication5.0\\build\\intermediates\\res\\merged\\debug\\layout\\myfingerprint1.xml",
+        "source": "E:\\tianmen\\Authentication5.0\\res\\layout\\myfingerprint1.xml"
+    },
+    {
+        "merged": "E:\\tianmen\\Authentication5.0\\build\\intermediates\\res\\merged\\debug\\layout\\anjian_gridview_main.xml",
+        "source": "E:\\tianmen\\Authentication5.0\\res\\layout\\anjian_gridview_main.xml"
+    },
+    {
+        "merged": "E:\\tianmen\\Authentication5.0\\build\\intermediates\\res\\merged\\debug\\layout\\setting_dialog.xml",
+        "source": "E:\\tianmen\\Authentication5.0\\res\\layout\\setting_dialog.xml"
+    },
+    {
+        "merged": "E:\\tianmen\\Authentication5.0\\build\\intermediates\\res\\merged\\debug\\layout\\notification_template_big_media.xml",
+        "source": "E:\\tianmen\\Authentication5.0\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.2.0\\res\\layout\\notification_template_big_media.xml"
+    },
+    {
+        "merged": "E:\\tianmen\\Authentication5.0\\build\\intermediates\\res\\merged\\debug\\layout\\toast.xml",
+        "source": "E:\\tianmen\\Authentication5.0\\res\\layout\\toast.xml"
+    },
+    {
+        "merged": "E:\\tianmen\\Authentication5.0\\build\\intermediates\\res\\merged\\debug\\layout\\abc_popup_menu_item_layout.xml",
+        "source": "E:\\tianmen\\Authentication5.0\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.2.0\\res\\layout\\abc_popup_menu_item_layout.xml"
+    },
+    {
+        "merged": "E:\\tianmen\\Authentication5.0\\build\\intermediates\\res\\merged\\debug\\layout\\abc_activity_chooser_view_list_item.xml",
+        "source": "E:\\tianmen\\Authentication5.0\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.2.0\\res\\layout\\abc_activity_chooser_view_list_item.xml"
+    },
+    {
+        "merged": "E:\\tianmen\\Authentication5.0\\build\\intermediates\\res\\merged\\debug\\layout\\anjian_listview_main.xml",
+        "source": "E:\\tianmen\\Authentication5.0\\res\\layout\\anjian_listview_main.xml"
+    },
+    {
+        "merged": "E:\\tianmen\\Authentication5.0\\build\\intermediates\\res\\merged\\debug\\layout\\instation_unconvention_activity.xml",
+        "source": "E:\\tianmen\\Authentication5.0\\res\\layout\\instation_unconvention_activity.xml"
+    },
+    {
+        "merged": "E:\\tianmen\\Authentication5.0\\build\\intermediates\\res\\merged\\debug\\layout\\abc_expanded_menu_layout.xml",
+        "source": "E:\\tianmen\\Authentication5.0\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.2.0\\res\\layout\\abc_expanded_menu_layout.xml"
+    },
+    {
+        "merged": "E:\\tianmen\\Authentication5.0\\build\\intermediates\\res\\merged\\debug\\layout\\houjiawei_top_main.xml",
+        "source": "E:\\tianmen\\Authentication5.0\\res\\layout\\houjiawei_top_main.xml"
+    },
+    {
+        "merged": "E:\\tianmen\\Authentication5.0\\build\\intermediates\\res\\merged\\debug\\layout\\inspectionchoose_activity.xml",
+        "source": "E:\\tianmen\\Authentication5.0\\res\\layout\\inspectionchoose_activity.xml"
+    },
+    {
+        "merged": "E:\\tianmen\\Authentication5.0\\build\\intermediates\\res\\merged\\debug\\layout\\notification_template_lines.xml",
+        "source": "E:\\tianmen\\Authentication5.0\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.2.0\\res\\layout\\notification_template_lines.xml"
+    },
+    {
+        "merged": "E:\\tianmen\\Authentication5.0\\build\\intermediates\\res\\merged\\debug\\layout\\anjian_top_main.xml",
+        "source": "E:\\tianmen\\Authentication5.0\\res\\layout\\anjian_top_main.xml"
+    },
+    {
+        "merged": "E:\\tianmen\\Authentication5.0\\build\\intermediates\\res\\merged\\debug\\layout\\abc_action_mode_bar.xml",
+        "source": "E:\\tianmen\\Authentication5.0\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.2.0\\res\\layout\\abc_action_mode_bar.xml"
+    },
+    {
+        "merged": "E:\\tianmen\\Authentication5.0\\build\\intermediates\\res\\merged\\debug\\layout\\notification_template_big_media_narrow.xml",
+        "source": "E:\\tianmen\\Authentication5.0\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.2.0\\res\\layout\\notification_template_big_media_narrow.xml"
+    },
+    {
+        "merged": "E:\\tianmen\\Authentication5.0\\build\\intermediates\\res\\merged\\debug\\layout\\menu_dialog_item.xml",
+        "source": "E:\\tianmen\\Authentication5.0\\res\\layout\\menu_dialog_item.xml"
+    },
+    {
+        "merged": "E:\\tianmen\\Authentication5.0\\build\\intermediates\\res\\merged\\debug\\layout\\anjian_activity_main02.xml",
+        "source": "E:\\tianmen\\Authentication5.0\\res\\layout\\anjian_activity_main02.xml"
+    },
+    {
+        "merged": "E:\\tianmen\\Authentication5.0\\build\\intermediates\\res\\merged\\debug\\layout\\gsv.xml",
+        "source": "E:\\tianmen\\Authentication5.0\\res\\layout\\gsv.xml"
+    },
+    {
+        "merged": "E:\\tianmen\\Authentication5.0\\build\\intermediates\\res\\merged\\debug\\layout\\anjian_scan_main.xml",
+        "source": "E:\\tianmen\\Authentication5.0\\res\\layout\\anjian_scan_main.xml"
+    },
+    {
+        "merged": "E:\\tianmen\\Authentication5.0\\build\\intermediates\\res\\merged\\debug\\layout\\notification_media_cancel_action.xml",
+        "source": "E:\\tianmen\\Authentication5.0\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.2.0\\res\\layout\\notification_media_cancel_action.xml"
+    },
+    {
+        "merged": "E:\\tianmen\\Authentication5.0\\build\\intermediates\\res\\merged\\debug\\layout\\houjiawei_scan_main.xml",
+        "source": "E:\\tianmen\\Authentication5.0\\res\\layout\\houjiawei_scan_main.xml"
+    },
+    {
+        "merged": "E:\\tianmen\\Authentication5.0\\build\\intermediates\\res\\merged\\debug\\layout\\anjian_activity_main.xml",
+        "source": "E:\\tianmen\\Authentication5.0\\res\\layout\\anjian_activity_main.xml"
+    },
+    {
+        "merged": "E:\\tianmen\\Authentication5.0\\build\\intermediates\\res\\merged\\debug\\layout\\design_menu_item_action_area.xml",
+        "source": "E:\\tianmen\\Authentication5.0\\build\\intermediates\\exploded-aar\\com.android.support\\design\\23.2.0\\res\\layout\\design_menu_item_action_area.xml"
+    },
+    {
+        "merged": "E:\\tianmen\\Authentication5.0\\build\\intermediates\\res\\merged\\debug\\layout\\activity_user_center.xml",
+        "source": "E:\\tianmen\\Authentication5.0\\res\\layout\\activity_user_center.xml"
+    },
+    {
+        "merged": "E:\\tianmen\\Authentication5.0\\build\\intermediates\\res\\merged\\debug\\layout\\anjian_main.xml",
+        "source": "E:\\tianmen\\Authentication5.0\\res\\layout\\anjian_main.xml"
+    },
+    {
+        "merged": "E:\\tianmen\\Authentication5.0\\build\\intermediates\\res\\merged\\debug\\layout\\select_dialog_singlechoice_material.xml",
+        "source": "E:\\tianmen\\Authentication5.0\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.2.0\\res\\layout\\select_dialog_singlechoice_material.xml"
+    },
+    {
+        "merged": "E:\\tianmen\\Authentication5.0\\build\\intermediates\\res\\merged\\debug\\layout\\fingerprint.xml",
+        "source": "E:\\tianmen\\Authentication5.0\\res\\layout\\fingerprint.xml"
+    },
+    {
+        "merged": "E:\\tianmen\\Authentication5.0\\build\\intermediates\\res\\merged\\debug\\layout\\houjiawei_outstation_aty4.xml",
+        "source": "E:\\tianmen\\Authentication5.0\\res\\layout\\houjiawei_outstation_aty4.xml"
+    },
+    {
+        "merged": "E:\\tianmen\\Authentication5.0\\build\\intermediates\\res\\merged\\debug\\layout\\item.xml",
+        "source": "E:\\tianmen\\Authentication5.0\\res\\layout\\item.xml"
+    },
+    {
+        "merged": "E:\\tianmen\\Authentication5.0\\build\\intermediates\\res\\merged\\debug\\layout\\smartcard.xml",
+        "source": "E:\\tianmen\\Authentication5.0\\res\\layout\\smartcard.xml"
+    },
+    {
+        "merged": "E:\\tianmen\\Authentication5.0\\build\\intermediates\\res\\merged\\debug\\layout\\location_activity.xml",
+        "source": "E:\\tianmen\\Authentication5.0\\res\\layout\\location_activity.xml"
+    },
+    {
+        "merged": "E:\\tianmen\\Authentication5.0\\build\\intermediates\\res\\merged\\debug\\layout\\text.xml",
+        "source": "E:\\tianmen\\Authentication5.0\\res\\layout\\text.xml"
+    },
+    {
+        "merged": "E:\\tianmen\\Authentication5.0\\build\\intermediates\\res\\merged\\debug\\layout\\main_tab_outstation.xml",
+        "source": "E:\\tianmen\\Authentication5.0\\res\\layout\\main_tab_outstation.xml"
+    },
+    {
+        "merged": "E:\\tianmen\\Authentication5.0\\build\\intermediates\\res\\merged\\debug\\layout\\rmc.xml",
+        "source": "E:\\tianmen\\Authentication5.0\\res\\layout\\rmc.xml"
+    },
+    {
+        "merged": "E:\\tianmen\\Authentication5.0\\build\\intermediates\\res\\merged\\debug\\layout\\show_licenceplate_item.xml",
+        "source": "E:\\tianmen\\Authentication5.0\\res\\layout\\show_licenceplate_item.xml"
+    },
+    {
+        "merged": "E:\\tianmen\\Authentication5.0\\build\\intermediates\\res\\merged\\debug\\layout\\tag_write_layout.xml",
+        "source": "E:\\tianmen\\Authentication5.0\\res\\layout\\tag_write_layout.xml"
+    },
+    {
+        "merged": "E:\\tianmen\\Authentication5.0\\build\\intermediates\\res\\merged\\debug\\layout\\abc_search_view.xml",
+        "source": "E:\\tianmen\\Authentication5.0\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.2.0\\res\\layout\\abc_search_view.xml"
+    },
+    {
+        "merged": "E:\\tianmen\\Authentication5.0\\build\\intermediates\\res\\merged\\debug\\layout\\prn_item.xml",
+        "source": "E:\\tianmen\\Authentication5.0\\res\\layout\\prn_item.xml"
+    },
+    {
+        "merged": "E:\\tianmen\\Authentication5.0\\build\\intermediates\\res\\merged\\debug\\layout\\abc_activity_chooser_view.xml",
+        "source": "E:\\tianmen\\Authentication5.0\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.2.0\\res\\layout\\abc_activity_chooser_view.xml"
+    },
+    {
+        "merged": "E:\\tianmen\\Authentication5.0\\build\\intermediates\\res\\merged\\debug\\layout\\anjian_inspectitem_main.xml",
+        "source": "E:\\tianmen\\Authentication5.0\\res\\layout\\anjian_inspectitem_main.xml"
+    },
+    {
+        "merged": "E:\\tianmen\\Authentication5.0\\build\\intermediates\\res\\merged\\debug\\layout\\anjian_inspectsub_main.xml",
+        "source": "E:\\tianmen\\Authentication5.0\\res\\layout\\anjian_inspectsub_main.xml"
+    },
+    {
+        "merged": "E:\\tianmen\\Authentication5.0\\build\\intermediates\\res\\merged\\debug\\layout\\tag_read_layout.xml",
+        "source": "E:\\tianmen\\Authentication5.0\\res\\layout\\tag_read_layout.xml"
+    },
+    {
+        "merged": "E:\\tianmen\\Authentication5.0\\build\\intermediates\\res\\merged\\debug\\layout\\gsa.xml",
+        "source": "E:\\tianmen\\Authentication5.0\\res\\layout\\gsa.xml"
+    },
+    {
+        "merged": "E:\\tianmen\\Authentication5.0\\build\\intermediates\\res\\merged\\debug\\layout\\anjian_take_picture.xml",
+        "source": "E:\\tianmen\\Authentication5.0\\res\\layout\\anjian_take_picture.xml"
+    },
+    {
+        "merged": "E:\\tianmen\\Authentication5.0\\build\\intermediates\\res\\merged\\debug\\layout\\inputnumber_dialog.xml",
+        "source": "E:\\tianmen\\Authentication5.0\\res\\layout\\inputnumber_dialog.xml"
+    },
+    {
+        "merged": "E:\\tianmen\\Authentication5.0\\build\\intermediates\\res\\merged\\debug\\layout\\houjiawei_inspection_name.xml",
+        "source": "E:\\tianmen\\Authentication5.0\\res\\layout\\houjiawei_inspection_name.xml"
+    },
+    {
+        "merged": "E:\\tianmen\\Authentication5.0\\build\\intermediates\\res\\merged\\debug\\layout\\login_pop_main.xml",
+        "source": "E:\\tianmen\\Authentication5.0\\res\\layout\\login_pop_main.xml"
+    },
+    {
+        "merged": "E:\\tianmen\\Authentication5.0\\build\\intermediates\\res\\merged\\debug\\layout\\anjian_pop_main_item.xml",
+        "source": "E:\\tianmen\\Authentication5.0\\res\\layout\\anjian_pop_main_item.xml"
+    },
+    {
+        "merged": "E:\\tianmen\\Authentication5.0\\build\\intermediates\\res\\merged\\debug\\layout\\barcode_activity.xml",
+        "source": "E:\\tianmen\\Authentication5.0\\res\\layout\\barcode_activity.xml"
+    },
+    {
+        "merged": "E:\\tianmen\\Authentication5.0\\build\\intermediates\\res\\merged\\debug\\layout\\main_tab_anjiantb.xml",
+        "source": "E:\\tianmen\\Authentication5.0\\res\\layout\\main_tab_anjiantb.xml"
+    },
+    {
+        "merged": "E:\\tianmen\\Authentication5.0\\build\\intermediates\\res\\merged\\debug\\layout\\instationact2.xml",
+        "source": "E:\\tianmen\\Authentication5.0\\res\\layout\\instationact2.xml"
+    },
+    {
+        "merged": "E:\\tianmen\\Authentication5.0\\build\\intermediates\\res\\merged\\debug\\layout\\login.xml",
+        "source": "E:\\tianmen\\Authentication5.0\\res\\layout\\login.xml"
+    },
+    {
+        "merged": "E:\\tianmen\\Authentication5.0\\build\\intermediates\\res\\merged\\debug\\layout\\simple_list_item.xml",
+        "source": "E:\\tianmen\\Authentication5.0\\res\\layout\\simple_list_item.xml"
+    },
+    {
+        "merged": "E:\\tianmen\\Authentication5.0\\build\\intermediates\\res\\merged\\debug\\layout\\abc_screen_toolbar.xml",
+        "source": "E:\\tianmen\\Authentication5.0\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.2.0\\res\\layout\\abc_screen_toolbar.xml"
+    },
+    {
+        "merged": "E:\\tianmen\\Authentication5.0\\build\\intermediates\\res\\merged\\debug\\layout\\show_licenceplate.xml",
+        "source": "E:\\tianmen\\Authentication5.0\\res\\layout\\show_licenceplate.xml"
+    },
+    {
+        "merged": "E:\\tianmen\\Authentication5.0\\build\\intermediates\\res\\merged\\debug\\layout\\rfid_15693_activity.xml",
+        "source": "E:\\tianmen\\Authentication5.0\\res\\layout\\rfid_15693_activity.xml"
+    },
+    {
+        "merged": "E:\\tianmen\\Authentication5.0\\build\\intermediates\\res\\merged\\debug\\layout\\activity_soft_decoding.xml",
+        "source": "E:\\tianmen\\Authentication5.0\\res\\layout\\activity_soft_decoding.xml"
+    },
+    {
+        "merged": "E:\\tianmen\\Authentication5.0\\build\\intermediates\\res\\merged\\debug\\layout\\design_layout_tab_icon.xml",
+        "source": "E:\\tianmen\\Authentication5.0\\build\\intermediates\\exploded-aar\\com.android.support\\design\\23.2.0\\res\\layout\\design_layout_tab_icon.xml"
+    },
+    {
+        "merged": "E:\\tianmen\\Authentication5.0\\build\\intermediates\\res\\merged\\debug\\layout\\abc_action_bar_view_list_nav_layout.xml",
+        "source": "E:\\tianmen\\Authentication5.0\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.2.0\\res\\layout\\abc_action_bar_view_list_nav_layout.xml"
+    },
+    {
+        "merged": "E:\\tianmen\\Authentication5.0\\build\\intermediates\\res\\merged\\debug\\layout\\picture_activity.xml",
+        "source": "E:\\tianmen\\Authentication5.0\\res\\layout\\picture_activity.xml"
+    },
+    {
+        "merged": "E:\\tianmen\\Authentication5.0\\build\\intermediates\\res\\merged\\debug\\layout\\abc_action_bar_title_item.xml",
+        "source": "E:\\tianmen\\Authentication5.0\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.2.0\\res\\layout\\abc_action_bar_title_item.xml"
+    },
+    {
+        "merged": "E:\\tianmen\\Authentication5.0\\build\\intermediates\\res\\merged\\debug\\layout\\notification_template_media.xml",
+        "source": "E:\\tianmen\\Authentication5.0\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.2.0\\res\\layout\\notification_template_media.xml"
+    },
+    {
+        "merged": "E:\\tianmen\\Authentication5.0\\build\\intermediates\\res\\merged\\debug\\layout\\taglist.xml",
+        "source": "E:\\tianmen\\Authentication5.0\\res\\layout\\taglist.xml"
+    },
+    {
+        "merged": "E:\\tianmen\\Authentication5.0\\build\\intermediates\\res\\merged\\debug\\layout\\write_data.xml",
+        "source": "E:\\tianmen\\Authentication5.0\\res\\layout\\write_data.xml"
+    },
+    {
+        "merged": "E:\\tianmen\\Authentication5.0\\build\\intermediates\\res\\merged\\debug\\layout\\notification_template_part_time.xml",
+        "source": "E:\\tianmen\\Authentication5.0\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.2.0\\res\\layout\\notification_template_part_time.xml"
+    },
+    {
+        "merged": "E:\\tianmen\\Authentication5.0\\build\\intermediates\\res\\merged\\debug\\layout\\uhf_activity.xml",
+        "source": "E:\\tianmen\\Authentication5.0\\res\\layout\\uhf_activity.xml"
+    },
+    {
+        "merged": "E:\\tianmen\\Authentication5.0\\build\\intermediates\\res\\merged\\debug\\layout\\activity_null.xml",
+        "source": "E:\\tianmen\\Authentication5.0\\res\\layout\\activity_null.xml"
+    },
+    {
+        "merged": "E:\\tianmen\\Authentication5.0\\build\\intermediates\\res\\merged\\debug\\layout\\design_navigation_item.xml",
+        "source": "E:\\tianmen\\Authentication5.0\\build\\intermediates\\exploded-aar\\com.android.support\\design\\23.2.0\\res\\layout\\design_navigation_item.xml"
+    },
+    {
+        "merged": "E:\\tianmen\\Authentication5.0\\build\\intermediates\\res\\merged\\debug\\layout\\houjiawei_driver_main.xml",
+        "source": "E:\\tianmen\\Authentication5.0\\res\\layout\\houjiawei_driver_main.xml"
+    },
+    {
+        "merged": "E:\\tianmen\\Authentication5.0\\build\\intermediates\\res\\merged\\debug\\layout\\main_tab_instation_item.xml",
+        "source": "E:\\tianmen\\Authentication5.0\\res\\layout\\main_tab_instation_item.xml"
+    },
+    {
+        "merged": "E:\\tianmen\\Authentication5.0\\build\\intermediates\\res\\merged\\debug\\layout\\sfz.xml",
+        "source": "E:\\tianmen\\Authentication5.0\\res\\layout\\sfz.xml"
+    },
+    {
+        "merged": "E:\\tianmen\\Authentication5.0\\build\\intermediates\\res\\merged\\debug\\layout\\gll.xml",
+        "source": "E:\\tianmen\\Authentication5.0\\res\\layout\\gll.xml"
+    },
+    {
+        "merged": "E:\\tianmen\\Authentication5.0\\build\\intermediates\\res\\merged\\debug\\layout\\design_bottom_sheet_dialog.xml",
+        "source": "E:\\tianmen\\Authentication5.0\\build\\intermediates\\exploded-aar\\com.android.support\\design\\23.2.0\\res\\layout\\design_bottom_sheet_dialog.xml"
+    },
+    {
+        "merged": "E:\\tianmen\\Authentication5.0\\build\\intermediates\\res\\merged\\debug\\layout\\abc_list_menu_item_layout.xml",
+        "source": "E:\\tianmen\\Authentication5.0\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.2.0\\res\\layout\\abc_list_menu_item_layout.xml"
+    },
+    {
+        "merged": "E:\\tianmen\\Authentication5.0\\build\\intermediates\\res\\merged\\debug\\layout\\notification_media_action.xml",
+        "source": "E:\\tianmen\\Authentication5.0\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.2.0\\res\\layout\\notification_media_action.xml"
+    },
+    {
+        "merged": "E:\\tianmen\\Authentication5.0\\build\\intermediates\\res\\merged\\debug\\layout\\read_card_activity.xml",
+        "source": "E:\\tianmen\\Authentication5.0\\res\\layout\\read_card_activity.xml"
+    },
+    {
+        "merged": "E:\\tianmen\\Authentication5.0\\build\\intermediates\\res\\merged\\debug\\layout\\tagoper_layout.xml",
+        "source": "E:\\tianmen\\Authentication5.0\\res\\layout\\tagoper_layout.xml"
+    },
+    {
+        "merged": "E:\\tianmen\\Authentication5.0\\build\\intermediates\\res\\merged\\debug\\layout\\vtg.xml",
+        "source": "E:\\tianmen\\Authentication5.0\\res\\layout\\vtg.xml"
+    },
+    {
+        "merged": "E:\\tianmen\\Authentication5.0\\build\\intermediates\\res\\merged\\debug\\layout\\down_install_apk.xml",
+        "source": "E:\\tianmen\\Authentication5.0\\res\\layout\\down_install_apk.xml"
+    },
+    {
+        "merged": "E:\\tianmen\\Authentication5.0\\build\\intermediates\\res\\merged\\debug\\layout\\fingeractivity.xml",
+        "source": "E:\\tianmen\\Authentication5.0\\res\\layout\\fingeractivity.xml"
+    },
+    {
+        "merged": "E:\\tianmen\\Authentication5.0\\build\\intermediates\\res\\merged\\debug\\layout\\cpu_activity.xml",
+        "source": "E:\\tianmen\\Authentication5.0\\res\\layout\\cpu_activity.xml"
+    }
+]

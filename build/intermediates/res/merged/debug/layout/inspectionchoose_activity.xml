@@ -1,0 +1,88 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:orientation="vertical"
+    android:background="@drawable/bg" >
+          <RelativeLayout
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:orientation="vertical" >
+
+        <ImageView
+            android:layout_width="match_parent"
+            android:layout_height="80dp"
+            android:background="@drawable/anquantitle" />
+
+        <LinearLayout
+            android:id="@+id/linearLayout1"
+            android:layout_width="fill_parent"
+            android:layout_height="wrap_content"
+            android:layout_gravity="center_vertical"
+            android:orientation="horizontal" >
+
+            <RelativeLayout
+                android:layout_width="70dp"
+                android:layout_height="70dp"
+                android:layout_marginLeft="20dp"
+                android:layout_marginTop="10dp"
+                android:gravity="center_vertical" >
+
+                <ImageButton
+                    android:id="@+id/back_page"
+                    android:layout_width="70dp"
+                    android:layout_height="70dp"
+                    android:background="@drawable/zuojian" />
+            </RelativeLayout>
+
+        </LinearLayout>
+    </RelativeLayout>
+    
+          <LinearLayout 
+              android:layout_marginTop="40dp"
+              android:layout_marginLeft="40dp"
+              android:layout_marginRight="40dp"
+              android:layout_width="match_parent"
+              android:layout_height="wrap_content"
+              android:orientation="vertical">
+        <RelativeLayout 
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:layout_marginTop="10dp">
+        <Button 
+            android:id="@+id/inspection_comment"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:background="@drawable/btn_inspectionway_pressed"
+            />
+        <TextView 
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:textColor="@color/White"
+            android:text="本站车辆安检"
+            android:textStyle="bold"
+            android:layout_centerInParent="true"
+            android:textSize="28sp"/>
+        </RelativeLayout>
+          <RelativeLayout 
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:layout_marginTop="40dp">
+         <Button 
+            android:id="@+id/inspection_exception"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+             android:background="@drawable/btn_unconventioninspectionway_pressed"
+             />
+            <TextView 
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:textColor="@color/White"
+            android:text="配载车辆安检"
+            android:textStyle="bold"
+            android:layout_centerInParent="true"
+            android:textSize="28sp"/>
+         </RelativeLayout>
+         </LinearLayout>
+
+</LinearLayout>

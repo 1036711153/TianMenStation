@@ -1,0 +1,54 @@
+<?xml version="1.0" encoding="utf-8"?>
+<litepal>
+    <!--
+        Define the database name of your application. 
+        By default each database name should be end with .db. 
+        If you didn't name your database end with .db, 
+        LitePal would plus the suffix automaticly for you.
+        For example:    
+        <dbname value="demo" ></dbname>
+    -->
+    <dbname value="TianMen" ></dbname>
+
+    <!--
+        Define the version of your database. Each time you want 
+        to upgrade your database, the version tag would helps.
+        Modify the models you defined in the mapping tag, and just 
+        make the version value plus one, the upgrade of database
+        will be processed automaticly without concern.
+            For example:    
+        <version value="1" ></version>
+    -->
+    <version value="1" ></version>
+
+    <!--
+        Define your models in the list with mapping tag, LitePal will
+        create tables for each mapping class. The supported fields
+        defined in models will be mapped into columns.
+        For example:    
+        <list>
+            <mapping class="com.test.model.Reader"></mapping>
+            <mapping class="com.test.model.Magazine"></mapping>
+        </list>
+    -->
+    <list>
+        <mapping class="com.example.anjian.InspectionCarDetail"></mapping>
+        <mapping class="com.example.anjian.InspectionCarSummary"></mapping>
+        <mapping class="com.example.anjian.InspectionItem"></mapping>
+        <mapping class="com.example.anjian.InspectionSubitem"></mapping>
+        <mapping class="com.example.anjian.LinshiInspectionCarDetail"></mapping>
+        <mapping class="com.example.anjian.Vehicle_Num"></mapping>
+        <mapping class="com.authentication.entity.FingerDriver"></mapping>
+        <mapping class="com.example.outstation.entity.ExitInfo"></mapping>
+        <mapping class="com.example.outstation.entity.ExitCheckInfo"></mapping>
+        <mapping class="com.example.outstation.entity.UnconventionExitstation"></mapping>
+        <mapping class="com.example.instation.InstationJsonUser"></mapping>
+  		<mapping class="com.example.instation.EntranceInfo"></mapping>
+  		<mapping class="com.example.instation.mAdmin"></mapping>
+  		<mapping class="com.example.instation.UnconventionInstation"></mapping>
+  		<mapping class="com.authentication.entity.AutoCarNum"></mapping>
+  		<mapping class="com.authentication.entity.Register_Finger_DataBase"></mapping>
+  		<mapping class="com.example.configure.Config_DataDase"></mapping>
+  		<mapping class="com.example.finger.TestFinger"></mapping>
+     </list>
+</litepal>

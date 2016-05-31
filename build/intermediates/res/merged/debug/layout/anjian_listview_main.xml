@@ -1,0 +1,49 @@
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="wrap_content"
+    android:orientation="vertical" >
+
+    <RelativeLayout
+        android:id="@+id/linear"
+        android:layout_width="match_parent"
+        android:layout_height="65dp"
+        android:layout_gravity="center_horizontal"
+        android:background="@drawable/anjiantiaoli"
+        android:orientation="horizontal" >
+
+        <TextView
+            android:id="@+id/textview"
+            android:layout_width="wrap_content"
+            android:layout_height="60dp"
+            android:layout_gravity="center"
+            android:gravity="center"
+            android:layout_marginLeft="80dp"
+            android:text="外观及车内环境"
+            android:textColor="@color/Black"
+            android:textSize="20sp" />
+
+        <Button
+            android:id="@+id/hege"
+            android:layout_toLeftOf="@+id/buhege"
+            android:layout_width="60dp"
+            android:layout_height="60dp"
+            android:layout_gravity="center"
+            android:background="@drawable/btn_hg_button_pressed"
+            android:text="合格"
+            android:textColor="@color/White"
+            android:textSize="15sp" />
+
+        <Button
+            android:layout_alignParentRight="true"
+            android:id="@+id/buhege"
+            android:layout_width="60dp"
+            android:layout_height="60dp"
+            android:layout_gravity="center"
+            android:background="@drawable/btn_hs_button_pressed"
+            android:text="不合格"
+            android:textColor="@color/White"
+            android:textSize="15sp" />
+    </RelativeLayout>
+
+</LinearLayout>

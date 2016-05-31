@@ -1,0 +1,22 @@
+[
+    {
+        "merged": "E:\\tianmen\\Authentication5.0\\build\\intermediates\\res\\merged\\debug\\layout-800x480\\main_activity.xml",
+        "source": "E:\\tianmen\\Authentication5.0\\res\\layout-800x480\\main_activity.xml"
+    },
+    {
+        "merged": "E:\\tianmen\\Authentication5.0\\build\\intermediates\\res\\merged\\debug\\layout-800x480\\tag_write_layout.xml",
+        "source": "E:\\tianmen\\Authentication5.0\\res\\layout-800x480\\tag_write_layout.xml"
+    },
+    {
+        "merged": "E:\\tianmen\\Authentication5.0\\build\\intermediates\\res\\merged\\debug\\layout-800x480\\tag_read_layout.xml",
+        "source": "E:\\tianmen\\Authentication5.0\\res\\layout-800x480\\tag_read_layout.xml"
+    },
+    {
+        "merged": "E:\\tianmen\\Authentication5.0\\build\\intermediates\\res\\merged\\debug\\layout-800x480\\datalist.xml",
+        "source": "E:\\tianmen\\Authentication5.0\\res\\layout-800x480\\datalist.xml"
+    },
+    {
+        "merged": "E:\\tianmen\\Authentication5.0\\build\\intermediates\\res\\merged\\debug\\layout-800x480\\activity_uhf.xml",
+        "source": "E:\\tianmen\\Authentication5.0\\res\\layout-800x480\\activity_uhf.xml"
+    }
+]

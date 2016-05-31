@@ -1,0 +1,103 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        jar="E:\tianmen\Authentication5.0\libs\nineoldandroids-2.4.0.jar"
+        jumboMode="false"
+        revision="23.0.2"
+        sha1="59f19e43354d32de831379c23ce03bb259a4c2b7">
+        <dex dex="E:\tianmen\Authentication5.0\build\intermediates\pre-dexed\debug\nineoldandroids-2.4.0_404bdeea5ecc2d5f8fb360f12aee2cc128bf05b7.jar" />
+    </item>
+    <item
+        jar="E:\tianmen\Authentication5.0\libs\javabase64-1.3.1.jar"
+        jumboMode="false"
+        revision="23.0.2"
+        sha1="8d6c41daabd8f7aebf65893dcbbfc18b5b78ea74">
+        <dex dex="E:\tianmen\Authentication5.0\build\intermediates\pre-dexed\debug\javabase64-1.3.1_d0efb33acf8ba1855bca2527207b53f359fe67c2.jar" />
+    </item>
+    <item
+        jar="E:\tianmen\Authentication5.0\libs\picasso-2.4.0.jar"
+        jumboMode="false"
+        revision="23.0.2"
+        sha1="f36d2d4e3a36b3259aaf9d004d29b4cdc6c1bfb2">
+        <dex dex="E:\tianmen\Authentication5.0\build\intermediates\pre-dexed\debug\picasso-2.4.0_17173c1347cbb73b55d68b8edb4e4309913f34d7.jar" />
+    </item>
+    <item
+        jar="E:\tianmen\Authentication5.0\build\intermediates\exploded-aar\com.android.support\cardview-v7\23.2.0\jars\classes.jar"
+        jumboMode="false"
+        revision="23.0.2"
+        sha1="bc599eb9531da9d18bc58ec4eb0b1a1d895f6839">
+        <dex dex="E:\tianmen\Authentication5.0\build\intermediates\pre-dexed\debug\com.android.support-cardview-v7-23.2.0_62f442f63079bf92d8bb4413c5b99bf54915f4a3.jar" />
+    </item>
+    <item
+        jar="E:\tianmen\Authentication5.0\libs\litepal-1.2.0-src.jar"
+        jumboMode="false"
+        revision="23.0.2"
+        sha1="ff4dbfb7c36cb87e982917cb2e7238ac01b31090">
+        <dex dex="E:\tianmen\Authentication5.0\build\intermediates\pre-dexed\debug\litepal-1.2.0-src_21bad2bfd0d1811c3a762ba6c7f9313211a0f45d.jar" />
+    </item>
+    <item
+        jar="E:\tianmen\Authentication5.0\libs\android-async-http-1.4.8.jar"
+        jumboMode="false"
+        revision="23.0.2"
+        sha1="77bbfe240e437ecb396d982afa0d3bd4f9090ba7">
+        <dex dex="E:\tianmen\Authentication5.0\build\intermediates\pre-dexed\debug\android-async-http-1.4.8_5c627f5ee8d3d9dab20d1c5e868d7b7198ae5d1d.jar" />
+    </item>
+    <item
+        jar="E:\tianmen\Authentication5.0\libs\guava-14.0.jar"
+        jumboMode="false"
+        revision="23.0.2"
+        sha1="67b7be4ee7ba48e4828a42d6d5069761186d4a53">
+        <dex dex="E:\tianmen\Authentication5.0\build\intermediates\pre-dexed\debug\guava-14.0_b7522e800147f0fe623a096f868e4d9c00670ae7.jar" />
+    </item>
+    <item
+        jar="E:\tianmen\Authentication5.0\libs\DecodeWlt.jar"
+        jumboMode="false"
+        revision="23.0.2"
+        sha1="08a75f3e9fd415101bfe5d7a77e644dec4fbed1d">
+        <dex dex="E:\tianmen\Authentication5.0\build\intermediates\pre-dexed\debug\DecodeWlt_e2366b454f5d01d04abb475e6b2d98122246bf2e.jar" />
+    </item>
+    <item
+        jar="E:\tianmen\Authentication5.0\libs\gson-2.2.2.jar"
+        jumboMode="false"
+        revision="23.0.2"
+        sha1="53bfcd3c8e310d1493b2691484525ed90b04e236">
+        <dex dex="E:\tianmen\Authentication5.0\build\intermediates\pre-dexed\debug\gson-2.2.2_fba5ecf4e0b1bbef558ff4638064cdd2dbde89f1.jar" />
+    </item>
+    <item
+        jar="E:\tianmen\Authentication5.0\libs\android-support-v4.jar"
+        jumboMode="false"
+        revision="23.0.2"
+        sha1="db0f122c99ef9f90dbab3fada6d191f2880cbb8e">
+        <dex dex="E:\tianmen\Authentication5.0\build\intermediates\pre-dexed\debug\android-support-v4_751352e75c260107132ec44ac595a0d8e95beff6.jar" />
+    </item>
+    <item
+        jar="E:\tianmen\Authentication5.0\libs\universal-image-loader-1.9.3.jar"
+        jumboMode="false"
+        revision="23.0.2"
+        sha1="a85588bec3e2c4584d593d3f15df1677321bca72">
+        <dex dex="E:\tianmen\Authentication5.0\build\intermediates\pre-dexed\debug\universal-image-loader-1.9.3_c5d3936681e25dd4de57ceae94c6cfecc9031e5a.jar" />
+    </item>
+    <item
+        jar="E:\tianmen\Authentication5.0\libs\android-support-design.jar"
+        jumboMode="false"
+        revision="23.0.2"
+        sha1="c32bdafabc6bf7ac9a3bc88b33e5f7286e982be5">
+        <dex dex="E:\tianmen\Authentication5.0\build\intermediates\pre-dexed\debug\android-support-design_117803e4ce949ef91bbdae118d5d4639e0a7743a.jar" />
+    </item>
+    <item
+        jar="E:\tianmen\Authentication5.0\libs\bugly_1.2.7_release.jar"
+        jumboMode="false"
+        revision="23.0.2"
+        sha1="abba7552d1be551217261ccf2074afdd7e702df9">
+        <dex dex="E:\tianmen\Authentication5.0\build\intermediates\pre-dexed\debug\bugly_1.2.7_release_e7331f1b8b242476751f5820dadd650bd7340d24.jar" />
+    </item>
+    <item
+        jar="E:\tianmen\Authentication5.0\libs\microlog4android-1.0.0.jar"
+        jumboMode="false"
+        revision="23.0.2"
+        sha1="3dbfcfb407070fc33e60e26e45d059763afdaf94">
+        <dex dex="E:\tianmen\Authentication5.0\build\intermediates\pre-dexed\debug\microlog4android-1.0.0_d1f0337b017caf0899913eafd3e2cb989433e87f.jar" />
+    </item>
+
+</items>

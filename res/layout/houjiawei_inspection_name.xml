@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:orientation="vertical" >
+     <RelativeLayout
+        android:layout_marginLeft="40dp"
+        android:layout_marginRight="40dp"
+        android:id="@+id/title"
+        android:layout_width="match_parent"
+        android:layout_height="60dp"
+        android:gravity="center_vertical"
+        android:background="@drawable/welcome"
+         >
+         <TextView 
+             android:id="@+id/Inspection_name"
+             android:layout_width="wrap_content"
+             android:layout_height="wrap_content"
+             android:layout_centerVertical="true"
+             android:layout_marginLeft="90dp"
+             android:textSize="20sp"
+             android:typeface="serif"
+             android:textColor="@color/White"
+             android:text="程慧琳"/>
+         <ImageButton 
+             android:alpha="0"
+             android:enabled="false"
+             android:id="@+id/save_exit"
+             android:layout_width="100dp"
+             android:layout_height="100dp"
+             android:layout_marginRight="30dp"
+             android:layout_alignParentRight="true"
+             android:src="@drawable/anquantuichu"/>
+         
+    </RelativeLayout>
+</LinearLayout>

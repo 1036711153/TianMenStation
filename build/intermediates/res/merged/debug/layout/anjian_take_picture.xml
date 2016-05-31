@@ -1,0 +1,236 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:background="@drawable/bg"
+    android:orientation="vertical" >
+
+    <RelativeLayout
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:orientation="vertical" >
+
+        <ImageView
+            android:layout_width="match_parent"
+            android:layout_height="80dp"
+            android:background="@drawable/anquantitle" />
+
+        <LinearLayout
+            android:id="@+id/linearLayout1"
+            android:layout_width="fill_parent"
+            android:layout_height="wrap_content"
+            android:layout_gravity="center_vertical"
+            android:orientation="horizontal" >
+
+            <RelativeLayout
+                android:layout_width="70dp"
+                android:layout_height="70dp"
+                android:layout_marginLeft="20dp"
+                android:layout_marginTop="10dp"
+                android:gravity="center_vertical" >
+
+                <ImageButton
+                    android:id="@+id/back_page"
+                    android:layout_width="70dp"
+                    android:layout_height="70dp"
+                    android:background="@drawable/zuojian" />
+            </RelativeLayout>
+
+            <RelativeLayout
+                android:layout_width="70dp"
+                android:layout_height="70dp"
+                android:layout_marginLeft="220dp"
+                android:layout_marginTop="10dp" >
+
+                <ImageButton
+                    android:id="@+id/next_page"
+                    android:layout_width="70dp"
+                    android:layout_height="70dp"
+                    android:background="@drawable/youjian" />
+            </RelativeLayout>
+        </LinearLayout>
+    </RelativeLayout>
+
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="60dp"
+        android:layout_marginTop="95dp"
+        android:gravity="center"
+        android:orientation="horizontal" >
+
+        <RelativeLayout
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:orientation="horizontal" >
+
+            <ImageView
+                android:layout_width="match_parent"
+                android:layout_height="fill_parent"
+                android:layout_centerInParent="true"
+                android:src="@drawable/chepaihao" />
+
+            <AutoCompleteTextView
+                android:id="@+id/input_carNum"
+                android:layout_width="200dp"
+                android:layout_height="wrap_content"
+                android:layout_centerVertical="true"
+                android:layout_marginLeft="180dp"
+                android:background="@null"
+                android:gravity="center_vertical"
+                android:maxLength="7"
+                android:singleLine="true"
+                android:textColor="@color/White"
+                android:textSize="20sp" />
+        </RelativeLayout>
+    </LinearLayout>
+
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_alignParentBottom="true"
+        android:layout_centerHorizontal="true"
+        android:layout_marginBottom="20dp"
+        android:gravity="center"
+        android:orientation="vertical" >
+
+        <LinearLayout
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:gravity="center"
+            android:orientation="horizontal" >
+
+            <LinearLayout
+                android:layout_width="160dp"
+                android:layout_height="220dp"
+                android:orientation="vertical" 
+                android:background="@drawable/paizhaobg"
+                android:gravity="center">
+
+                <RelativeLayout
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content" >
+                    <ImageView
+                        android:id="@+id/car_body"
+                        android:layout_width="120dp"
+                        android:layout_height="160dp"
+                        android:layout_centerHorizontal="true"
+                        android:scaleType="fitXY"
+                        android:src="@drawable/btn_paizhao1_pressed" />
+                </RelativeLayout>
+
+                <TextView
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    android:layout_centerInParent="true"
+                    android:layout_gravity="center_horizontal"
+                    android:text="车身"
+                    android:textColor="@color/White"
+                    android:textSize="20sp"
+                    android:textStyle="bold" />
+            </LinearLayout>
+
+            <LinearLayout
+                  android:layout_width="160dp"
+                android:layout_height="220dp"
+                android:layout_marginLeft="40dp"
+                 android:background="@drawable/paizhaobg"
+                 android:gravity="center"
+                android:orientation="vertical" >
+
+                <RelativeLayout
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content" >
+
+                    <ImageView
+                        android:id="@+id/tire"
+                        android:layout_width="120dp"
+                        android:layout_height="160dp"
+                        android:layout_centerHorizontal="true"
+                        android:scaleType="fitXY"
+                        android:src="@drawable/btn_paizhao1_pressed" />
+                </RelativeLayout>
+
+                <TextView
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    android:layout_centerInParent="true"
+                    android:layout_gravity="center_horizontal"
+                    android:text="轮胎"
+                    android:textColor="@color/White"
+                    android:textSize="20sp"
+                    android:textStyle="bold" />
+            </LinearLayout>
+        </LinearLayout>
+
+        <LinearLayout
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:layout_marginTop="20dp"
+            android:gravity="center"
+            android:orientation="horizontal" >
+
+            <LinearLayout
+                  android:layout_width="160dp"
+                android:layout_height="220dp"
+                 android:background="@drawable/paizhaobg"
+                 android:gravity="center"
+                android:orientation="vertical" >
+
+                <RelativeLayout
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content" >
+                    <ImageView
+                        android:id="@+id/safety_hammer"
+                        android:layout_width="120dp"
+                        android:layout_height="160dp"
+                        android:layout_centerHorizontal="true"
+                        android:scaleType="fitXY"
+                        android:src="@drawable/btn_paizhao1_pressed" />
+                </RelativeLayout>
+
+                <TextView
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    android:layout_centerInParent="true"
+                    android:layout_gravity="center_horizontal"
+                    android:text="安全锤"
+                    android:textColor="@color/White"
+                    android:textSize="20sp"
+                    android:textStyle="bold" />
+            </LinearLayout>
+
+            <LinearLayout
+                 android:layout_width="160dp"
+                android:layout_height="220dp"
+                 android:background="@drawable/paizhaobg"
+                 android:gravity="center"
+                android:layout_marginLeft="40dp"
+                android:orientation="vertical" >
+
+                <RelativeLayout
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content" >
+
+                    <ImageView
+                        android:id="@+id/fire_extinguisher"
+                        android:layout_width="120dp"
+                        android:layout_height="160dp"
+                        android:layout_centerHorizontal="true"
+                        android:scaleType="fitXY"
+                        android:src="@drawable/btn_paizhao1_pressed" />
+                </RelativeLayout>
+
+                <TextView
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    android:layout_centerInParent="true"
+                    android:layout_gravity="center_horizontal"
+                    android:text="灭火器"
+                    android:textColor="@color/White"
+                    android:textSize="20sp"
+                    android:textStyle="bold" />
+            </LinearLayout>
+        </LinearLayout>
+    </LinearLayout>
+
+</RelativeLayout>

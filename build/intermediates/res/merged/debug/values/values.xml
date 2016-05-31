@@ -1,0 +1,996 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="baudrates_value">
+        <item>460800</item>
+        <item>115200</item>
+    </string-array>
+    <string-array name="category">
+        <item>旅游车</item>
+        <item>过路车</item>
+        <item>临时车</item>
+    </string-array>
+    <integer-array name="colors">
+        <item>@color/holo_blue_dark</item>
+        <item>@color/holo_yellow_dark</item>
+        <item>@color/holo_green_dark</item>
+        <item>@color/holo_purple_dark</item>
+        <item>@color/holo_red_dark</item>
+    </integer-array>
+    <string-array name="dbm">
+        <item>18.0</item>
+        <item>18.5</item>
+        <item>19.0</item>
+        <item>19.5</item>
+        <item>20.0</item>
+        <item>20.5</item>
+        <item>21.0</item>
+        <item>21.5</item>
+        <item>22.0</item>
+        <item>22.5</item>
+        <item>23.0</item>
+        <item>23.5</item>
+        <item>24.0</item>
+        <item>24.5</item>
+        <item>25.0</item>
+    </string-array>
+    <string-array name="features">
+        <item>身份证</item>
+        <item>北斗</item>
+        <item>循环读取</item>
+        <item>指纹</item>
+        <item>条码</item>
+        <item>M1卡</item>
+        <item>15693标签</item>
+        <item>HX超高频</item>
+        <item>HK超高频</item>
+        <item>CP802专用IC</item>
+        <item>CFon640IC卡</item>
+        <item>CPU卡</item>
+        <item>CFon640软解码</item>
+        <item>A370软解码</item>
+    </string-array>
+    <string-array name="fingerprint_size">
+        <item>小指纹</item>
+        <item>大指纹</item>
+    </string-array>
+    <integer-array name="gplus_colors">
+        <item>@color/holo_blue_dark</item>
+        <item>@color/holo_yellow_dark</item>
+        <item>@color/holo_green_dark</item>
+        <item>@color/holo_purple_dark</item>
+        <item>@color/holo_red_dark</item>
+    </integer-array>
+    <string-array name="ic_cmd_value">
+        <item>请选择IC卡操作指令</item>
+        <item>删除文件</item>
+        <item>建立 MF</item>
+        <item>结束建立MF</item>
+        <item>建立 DF</item>
+        <item>结束建立 DF</item>
+        <item>建立二进制</item>
+        <item>选择二进制文件</item>
+        <item>读二进制文件</item>
+        <item>写二进制文件</item>
+        <item>选中PBOC主目录</item>
+        <item>获取随机数</item>
+    </string-array>
+    <string-array name="output_mode_array">
+        <item>复制粘贴模式</item>
+        <item>模拟键盘模式</item>
+        <item>不显示模式（复制在粘贴板）</item>
+    </string-array>
+    <string-array name="playone_mode">
+        <item>只有声音</item>
+        <item>只有震动</item>
+        <item>声音及震动</item>
+        <item>无</item>
+    </string-array>
+    <integer-array name="pocket_background_colors">
+        <item>@color/pocket_color_1</item>
+        <item>@color/pocket_color_2</item>
+        <item>@color/pocket_color_3</item>
+        <item>@color/pocket_color_4</item>
+    </integer-array>
+    <integer-array name="pocket_bar_colors">
+        <item>@color/pocket_color_1</item>
+        <item>@color/pocket_color_1</item>
+        <item>@color/pocket_color_1</item>
+        <item>@color/pocket_color_1</item>
+        <item>@color/pocket_color_2</item>
+        <item>@color/pocket_color_2</item>
+        <item>@color/pocket_color_2</item>
+        <item>@color/pocket_color_2</item>
+        <item>@color/pocket_color_3</item>
+        <item>@color/pocket_color_3</item>
+        <item>@color/pocket_color_3</item>
+        <item>@color/pocket_color_3</item>
+        <item>@color/pocket_color_4</item>
+        <item>@color/pocket_color_4</item>
+        <item>@color/pocket_color_4</item>
+        <item>@color/pocket_color_4</item>
+    </integer-array>
+    <string-array name="terminal_char_array">
+        <item>末尾加回车</item>
+        <item>末尾加空格</item>
+        <item>末尾加制表符Tab</item>
+        <item>无</item>
+    </string-array>
+    <attr format="color" name="border_color"/>
+    <attr format="reference" name="circularProgressBarStyle"/>
+    <attr format="enum" name="orientation">
+        <enum name="vertical" value="0"/>
+        <enum name="horizontal" value="1"/>
+    </attr>
+    <attr format="dimension" name="radius"/>
+    <attr format="dimension" name="rightPadding"/>
+    <attr format="dimension" name="textSize"/>
+    <color name="AliceBlue">#F0F8FF</color>
+    <color name="AntiqueWhite">#FAEBD7</color>
+    <color name="Aqua">#00FFFF</color>
+    <color name="Aquamarine">#7FFFD4</color>
+    <color name="Azure">#F0FFFF</color>
+    <color name="Beige">#F5F5DC</color>
+    <color name="Bisque">#FFE4C4</color>
+    <color name="Black">#000000</color>
+    <color name="BlanchedAlmond">#FFEBCD</color>
+    <color name="Blue">#0000FF</color>
+    <color name="BlueViolet">#8A2BE2</color>
+    <color name="Brown">#A52A2A</color>
+    <color name="BurlyWood">#DEB887</color>
+    <color name="CadetBlue">#5F9EA0</color>
+    <color name="Chartreuse">#7FFF00</color>
+    <color name="Chocolate">#D2691E</color>
+    <color name="Coral">#FF7F50</color>
+    <color name="CornflowerBlue">#6495ED</color>
+    <color name="Cornsilk">#FFF8DC</color>
+    <color name="Crimson">#DC143C</color>
+    <color name="Cyan">#00FFFF</color>
+    <color name="DarkBlue">#00008B</color>
+    <color name="DarkCyan">#008B8B</color>
+    <color name="DarkGoldenrod">#B8860B</color>
+    <color name="DarkGray">#A9A9A9</color>
+    <color name="DarkGreen">#006400</color>
+    <color name="DarkKhaki">#BDB76B</color>
+    <color name="DarkMagenta">#8B008B</color>
+    <color name="DarkOliveGreen">#556B2F</color>
+    <color name="DarkOrange">#FF8C00</color>
+    <color name="DarkOrchid">#9932CC</color>
+    <color name="DarkRed">#8B0000</color>
+    <color name="DarkSalmon">#E9967A</color>
+    <color name="DarkSeaGreen">#8FBC8F</color>
+    <color name="DarkSlateBlue">#483D8B</color>
+    <color name="DarkSlateGray">#2F4F4F</color>
+    <color name="DarkTurquoise">#00CED1</color>
+    <color name="DarkViolet">#9400D3</color>
+    <color name="DeepPink">#FF1493</color>
+    <color name="DeepSkyBlue">#00BFFF</color>
+    <color name="DimGray">#696969</color>
+    <color name="DodgerBlue">#1E90FF</color>
+    <color name="FireBrick">#B22222</color>
+    <color name="FloralWhite">#FFFAF0</color>
+    <color name="ForestGreen">#228B22</color>
+    <color name="Fuchsia">#FF00FF</color>
+    <color name="Gainsboro">#DCDCDC</color>
+    <color name="GhostWhite">#F8F8FF</color>
+    <color name="Gold">#FFD700</color>
+    <color name="Goldenrod">#DAA520</color>
+    <color name="Gray">#808080</color>
+    <color name="Green">#008000</color>
+    <color name="GreenYellow">#ADFF2F</color>
+    <color name="Honeydew">#F0FFF0</color>
+    <color name="HotPink">#FF69B4</color>
+    <color name="IndianRed">#CD5C5C</color>
+    <color name="Indigo">#4B0082</color>
+    <color name="Ivory">#FFFFF0</color>
+    <color name="Khaki">#F0E68C</color>
+    <color name="Lavender">#E6E6FA</color>
+    <color name="LavenderBlush">#FFF0F5</color>
+    <color name="LawnGreen">#7CFC00</color>
+    <color name="LemonChiffon">#FFFACD</color>
+    <color name="LightBlue">#ADD8E6</color>
+    <color name="LightCoral">#F08080</color>
+    <color name="LightCyan">#E0FFFF</color>
+    <color name="LightGoldenrodYellow">#FAFAD2</color>
+    <color name="LightGreen">#90EE90</color>
+    <color name="LightGrey">#D3D3D3</color>
+    <color name="LightPink">#FFB6C1</color>
+    <color name="LightSalmon">#FFA07A</color>
+    <color name="LightSeaGreen">#20B2AA</color>
+    <color name="LightSkyBlue">#87CEFA</color>
+    <color name="LightSlateGray">#778899</color>
+    <color name="LightSteelBlue">#B0C4DE</color>
+    <color name="LightYellow">#FFFFE0</color>
+    <color name="Lime">#00FF00</color>
+    <color name="LimeGreen">#32CD32</color>
+    <color name="Linen">#FAF0E6</color>
+    <color name="Magenta">#FF00FF</color>
+    <color name="Maroon">#800000</color>
+    <color name="MediumAquamarine">#66CDAA</color>
+    <color name="MediumBlue">#0000CD</color>
+    <color name="MediumOrchid">#BA55D3</color>
+    <color name="MediumPurple">#9370DB</color>
+    <color name="MediumSeaGreen">#3CB371</color>
+    <color name="MediumSlateBlue">#7B68EE</color>
+    <color name="MediumSpringGreen">#00FA9A</color>
+    <color name="MediumTurquoise">#48D1CC</color>
+    <color name="MediumVioletRed">#C71585</color>
+    <color name="MidnightBlue">#191970</color>
+    <color name="MintCream">#F5FFFA</color>
+    <color name="MistyRose">#FFE4E1</color>
+    <color name="Moccasin">#FFE4B5</color>
+    <color name="NavajoWhite">#FFDEAD</color>
+    <color name="Navy">#000080</color>
+    <color name="OldLace">#FDF5E6</color>
+    <color name="Olive">#808000</color>
+    <color name="OliveDrab">#6B8E23</color>
+    <color name="Orange">#FFA500</color>
+    <color name="OrangeRed">#FF4500</color>
+    <color name="Orchid">#DA70D6</color>
+    <color name="PaleGoldenrod">#EEE8AA</color>
+    <color name="PaleGreen">#98FB98</color>
+    <color name="PaleTurquoise">#AFEEEE</color>
+    <color name="PaleVioletRed">#DB7093</color>
+    <color name="PapayaWhip">#FFEFD5</color>
+    <color name="PeachPuff">#FFDAB9</color>
+    <color name="Peru">#CD853F</color>
+    <color name="Pink">#FFC0CB</color>
+    <color name="Plum">#DDA0DD</color>
+    <color name="PowderBlue">#B0E0E6</color>
+    <color name="Purple">#800080</color>
+    <color name="Red">#FF0000</color>
+    <color name="RosyBrown">#BC8F8F</color>
+    <color name="RoyalBlue">#4169E1</color>
+    <color name="SaddleBrown">#8B4513</color>
+    <color name="Salmon">#FA8072</color>
+    <color name="SandyBrown">#F4A460</color>
+    <color name="SeaGreen">#2E8B57</color>
+    <color name="Seashell">#FFF5EE</color>
+    <color name="Sienna">#A0522D</color>
+    <color name="Silver">#C0C0C0</color>
+    <color name="SkyBlue">#87CEEB</color>
+    <color name="SlateBlue">#6A5ACD</color>
+    <color name="SlateGray">#708090</color>
+    <color name="Snow">#FFFAFA</color>
+    <color name="SpringGreen">#00FF7F</color>
+    <color name="SteelBlue">#4682B4</color>
+    <color name="Tan">#D2B48C</color>
+    <color name="Teal">#008080</color>
+    <color name="Thistle">#D8BFD8</color>
+    <color name="Tomato">#FF6347</color>
+    <color name="Turquoise">#40E0D0</color>
+    <color name="Violet">#EE82EE</color>
+    <color name="Wheat">#F5DEB3</color>
+    <color name="White">#FFFFFF</color>
+    <color name="WhiteSmoke">#F5F5F5</color>
+    <color name="Yellow">#FFFF00</color>
+    <color name="YellowGreen">#9ACD32</color>
+    <color name="aliceblue">#F0F8FF</color>
+    <color name="alltransparent">#00000000</color>
+    <color name="almondColor">#c48e48</color>
+    <color name="antiqueWhiteColor">#faebd7</color>
+    <color name="antiquewhite">#FAEBD7</color>
+    <color name="aqua">#00FFFF</color>
+    <color name="aquamarine">#7FFFD4</color>
+    <color name="azure">#F0FFFF</color>
+    <color name="babyBlueColor">#bedce6</color>
+    <color name="background_blue">#33CCFF</color>
+    <color name="bananaColor">#e5e33a</color>
+    <color name="beige">#F5F5DC</color>
+    <color name="beigeColor">#f5f5dc</color>
+    <color name="bisque">#FFE4C4</color>
+    <color name="black">#000000</color>
+    <color name="black25PercentColor">#404040</color>
+    <color name="black50PercentColor">#808080</color>
+    <color name="black75PercentColor">#c0c0c0</color>
+    <color name="blanchedalmond">#FFEBCD</color>
+    <color name="blue">#F0FFFF</color>
+    <color name="blueberryColor">#5971ad</color>
+    <color name="blueviolet">#8A2BE2</color>
+    <color name="brickRedColor">#971b10</color>
+    <color name="brown">#A52A2A</color>
+    <color name="btn_color">#ff9900</color>
+    <color name="btn_press_color">#FFa5281b</color>
+    <color name="btn_unpress_color">#FFc0392b</color>
+    <color name="burlywood">#DEB887</color>
+    <color name="burntOrangeColor">#b86625</color>
+    <color name="burntSiennaColor">#8a360f</color>
+    <color name="buttermilkColor">#fef1b5</color>
+    <color name="cactusGreenColor">#636f57</color>
+    <color name="cadetblue">#5F9EA0</color>
+    <color name="calendar_active_month_bg">#fff5f7f9</color>
+    <color name="calendar_bg">#ffffffff</color>
+    <color name="calendar_divider">#ffbababa</color>
+    <color name="calendar_highlighted_day_bg">#ccffcc</color>
+    <color name="calendar_inactive_month_bg">#ffd7d9db</color>
+    <color name="calendar_selected_day_bg">#ff379bff</color>
+    <color name="calendar_selected_range_bg">#ff96caff</color>
+    <color name="calendar_text_active">#ff778088</color>
+    <color name="calendar_text_inactive">#40778088</color>
+    <color name="calendar_text_selected">#ffffffff</color>
+    <color name="calendar_text_unselectable">#7f778088</color>
+    <color name="cantaloupeColor">#fa9a4f</color>
+    <color name="cardTableColor">#57796b</color>
+    <color name="card_bg">#EBEBEB</color>
+    <color name="card_outline">#D0D0CE</color>
+    <color name="cardview_dark_background">#FF424242</color>
+    <color name="cardview_light_background">#FFFFFFFF</color>
+    <color name="cardview_shadow_end_color">#03000000</color>
+    <color name="cardview_shadow_start_color">#37000000</color>
+    <color name="carrotColor">#ed9121</color>
+    <color name="charcoalColor">#222222</color>
+    <color name="chartreuse">#7FFF00</color>
+    <color name="chartreuseColor">#458b00</color>
+    <color name="chiliPowderColor">#c73f17</color>
+    <color name="chocolate">#D2691E</color>
+    <color name="chocolateColor">#5e2605</color>
+    <color name="cinnamonColor">#7b3f09</color>
+    <color name="coffeeColor">#8d3c0f</color>
+    <color name="color_black_light">#99000000</color>
+    <color name="color_gray_light">#99C9C9C9</color>
+    <color name="coolGrayColor">#767a85</color>
+    <color name="coolPurpleColor">#8c5de4</color>
+    <color name="coral">#FF7F50</color>
+    <color name="coralColor">#f08080</color>
+    <color name="cornflowerColor">#6495ed</color>
+    <color name="cornflowerblue">#6495ED</color>
+    <color name="cornsilk">#FFF8DC</color>
+    <color name="creamColor">#f0e2bb</color>
+    <color name="crimson">#DC143C</color>
+    <color name="crimsonColor">#bb1224</color>
+    <color name="cyan">#00FFFF</color>
+    <color name="dangerColor">#e5000f</color>
+    <color name="darkblue">#00008B</color>
+    <color name="darkcyan">#008B8B</color>
+    <color name="darkgoldenrod">#B8860B</color>
+    <color name="darkgray">#A9A9A9</color>
+    <color name="darkgreen">#006400</color>
+    <color name="darkgrey">#A9A9A9</color>
+    <color name="darkkhaki">#BDB76B</color>
+    <color name="darkmagenta">#8B008B</color>
+    <color name="darkolivegreen">#556B2F</color>
+    <color name="darkorange">#FF8C00</color>
+    <color name="darkorchid">#9932CC</color>
+    <color name="darkred">#8B0000</color>
+    <color name="darksalmon">#E9967A</color>
+    <color name="darkseagreen">#8FBC8F</color>
+    <color name="darkslateblue">#483D8B</color>
+    <color name="darkslategray">#2F4F4F</color>
+    <color name="darkslategrey">#2F4F4F</color>
+    <color name="darkturquoise">#00CED1</color>
+    <color name="darkviolet">#9400D3</color>
+    <color name="deeppink">#FF1493</color>
+    <color name="deepskyblue">#00BFFF</color>
+    <color name="default_edgeeffect_color">#FF33B5E5</color>
+    <color name="denimColor">#4372aa</color>
+    <color name="dialog_bg">#ffe74c3c</color>
+    <color name="dimgray">#696969</color>
+    <color name="dimgrey">#696969</color>
+    <color name="diverline">#cccccc</color>
+    <color name="divider_color">#11000000</color>
+    <color name="dodgerblue">#1E90FF</color>
+    <color name="dustColor">#ecd6c5</color>
+    <color name="easterPinkColor">#f1a7a2</color>
+    <color name="eggplantColor">#690562</color>
+    <color name="eggshellColor">#fce6c9</color>
+    <color name="elv_btn_focused">#ff0099cc</color>
+    <color name="elv_btn_normal">#00000000</color>
+    <color name="elv_btn_pressed">#ff33b5e5</color>
+    <color name="elv_popup_bg_color">#EE666666</color>
+    <color name="elv_popup_text_color">#FFFFFF</color>
+    <color name="elv_separator_color">#BBBBBB</color>
+    <color name="emeraldColor">#019875</color>
+    <color name="fadedBlueColor">#17899b</color>
+    <color name="firebrick">#B22222</color>
+    <color name="floralwhite">#FFFAF0</color>
+    <color name="forestgreen">#228B22</color>
+    <color name="fuchsia">#FF00FF</color>
+    <color name="fuschiaColor">#ff1493</color>
+    <color name="gainsboro">#DCDCDC</color>
+    <color name="ghostWhiteColor">#f8f8ff</color>
+    <color name="ghostwhite">#F8F8FF</color>
+    <color name="gold">#FFD700</color>
+    <color name="goldColor">#8b7512</color>
+    <color name="goldenrod">#DAA520</color>
+    <color name="goldenrodColor">#d7aa33</color>
+    <color name="gplus_color_1">#3e802f</color>
+    <color name="gplus_color_2">#f4b400</color>
+    <color name="gplus_color_3">#427fed</color>
+    <color name="gplus_color_4">#b23424</color>
+    <color name="grapeColor">#360b58</color>
+    <color name="grapefruitColor">#e41f36</color>
+    <color name="grassColor">#63d64a</color>
+    <color name="gray">#808080</color>
+    <color name="green">#008000</color>
+    <color name="greenyellow">#ADFF2F</color>
+    <color name="grey">#808080</color>
+    <color name="hollyGreenColor">#20570e</color>
+    <color name="holo_blue_dark">#0099cc</color>
+    <color name="holo_green_dark">#669900</color>
+    <color name="holo_purple_dark">#9933cc</color>
+    <color name="holo_red_dark">#cc0000</color>
+    <color name="holo_yellow_dark">#ff8800</color>
+    <color name="honeydew">#F0FFF0</color>
+    <color name="honeydewColor">#d8ffe7</color>
+    <color name="hotpink">#FF69B4</color>
+    <color name="icebergColor">#c8d5db</color>
+    <color name="indianRedColor">#cd5c5c</color>
+    <color name="indianred">#CD5C5C</color>
+    <color name="indigo">#4B0082</color>
+    <color name="indigoColor">#0d4f8b</color>
+    <color name="infoBlueColor">#2f70e1</color>
+    <color name="ivory">#FFFFF0</color>
+    <color name="ivoryColor">#fffff0</color>
+    <color name="khaki">#F0E68C</color>
+    <color name="lavender">#E6E6FA</color>
+    <color name="lavenderColor">#cc99cc</color>
+    <color name="lavenderblush">#FFF0F5</color>
+    <color name="lawngreen">#7CFC00</color>
+    <color name="left_column_bk">#6B9A00</color>
+    <color name="lemonchiffon">#FFFACD</color>
+    <color name="lightCreamColor">#f0eed7</color>
+    <color name="lightblue">#ADD8E6</color>
+    <color name="lightcoral">#F08080</color>
+    <color name="lightcyan">#E0FFFF</color>
+    <color name="lightgoldenrodyellow">#FAFAD2</color>
+    <color name="lightgray">#D3D3D3</color>
+    <color name="lightgreen">#90EE90</color>
+    <color name="lightgrey">#D3D3D3</color>
+    <color name="lightpink">#FFB6C1</color>
+    <color name="lightsalmon">#FFA07A</color>
+    <color name="lightseagreen">#20B2AA</color>
+    <color name="lightskyblue">#87CEFA</color>
+    <color name="lightslategray">#778899</color>
+    <color name="lightslategrey">#778899</color>
+    <color name="lightsteelblue">#B0C4DE</color>
+    <color name="lightyellow">#FFFFE0</color>
+    <color name="lime">#00FF00</color>
+    <color name="limeColor">#38ed38</color>
+    <color name="limegreen">#32CD32</color>
+    <color name="linen">#FAF0E6</color>
+    <color name="linenColor">#faf0e6</color>
+    <color name="login_red">#FF0000</color>
+    <color name="mColor1">#FFDF4288</color>
+    <color name="mColor2">#FFCD8BF8</color>
+    <color name="mColor3">#FF2B9DF2</color>
+    <color name="mColor4">#FFA4EEB4</color>
+    <color name="mColor5">#FFE097CA</color>
+    <color name="magenta">#FF00FF</color>
+    <color name="mandarinColor">#f79137</color>
+    <color name="maroon">#800000</color>
+    <color name="maroonColor">#50041c</color>
+    <color name="mediumaquamarine">#66CDAA</color>
+    <color name="mediumblue">#0000CD</color>
+    <color name="mediumorchid">#BA55D3</color>
+    <color name="mediumpurple">#9370DB</color>
+    <color name="mediumseagreen">#3CB371</color>
+    <color name="mediumslateblue">#7B68EE</color>
+    <color name="mediumspringgreen">#00FA9A</color>
+    <color name="mediumturquoise">#48D1CC</color>
+    <color name="mediumvioletred">#C71585</color>
+    <color name="mid_white">#CCCCCC</color>
+    <color name="midnightBlueColor">#0d1a23</color>
+    <color name="midnightblue">#191970</color>
+    <color name="mintcream">#F5FFFA</color>
+    <color name="mistyrose">#FFE4E1</color>
+    <color name="moccasin">#FFE4B5</color>
+    <color name="moneyGreenColor">#86c67c</color>
+    <color name="msg_color">#FFFFFFFF</color>
+    <color name="mudColor">#462d1d</color>
+    <color name="mustardColor">#cdab2d</color>
+    <color name="navajowhite">#FFDEAD</color>
+    <color name="navy">#000080</color>
+    <color name="oldLaceColor">#fdf5e6</color>
+    <color name="oldlace">#FDF5E6</color>
+    <color name="olive">#808000</color>
+    <color name="oliveColor">#5b7222</color>
+    <color name="oliveDrabColor">#6b8e23</color>
+    <color name="olivedrab">#6B8E23</color>
+    <color name="orange">#FFA500</color>
+    <color name="orangered">#FF4500</color>
+    <color name="orchid">#DA70D6</color>
+    <color name="orchidColor">#da70d6</color>
+    <color name="padding_line_color">#FFFFFF</color>
+    <color name="pager_sliding_tab_background_tab_pressed">#6633B5E5</color>
+    <color name="paleGreenColor">#b0e2ac</color>
+    <color name="palePurpleColor">#e5b4eb</color>
+    <color name="paleRoseColor">#ffe4e1</color>
+    <color name="palegoldenrod">#EEE8AA</color>
+    <color name="palegreen">#98FB98</color>
+    <color name="paleturquoise">#AFEEEE</color>
+    <color name="palevioletred">#DB7093</color>
+    <color name="papayawhip">#FFEFD5</color>
+    <color name="passlock_gray">#CCC</color>
+    <color name="passlock_light_gray">#E5E5E5</color>
+    <color name="passlock_list_row_selected">#78c8e6</color>
+    <color name="pastelBlueColor">#63a1f7</color>
+    <color name="pastelGreenColor">#7ef27c</color>
+    <color name="pastelOrangeColor">#f8c58f</color>
+    <color name="pastelPurpleColor">#cf64eb</color>
+    <color name="peachColor">#f2bb61</color>
+    <color name="peachpuff">#FFDAB9</color>
+    <color name="periwinkleColor">#879fed</color>
+    <color name="peru">#CD853F</color>
+    <color name="pink">#FFC0CB</color>
+    <color name="pinkColor">#ff5f9a</color>
+    <color name="pinkLipstickColor">#ff69b4</color>
+    <color name="plum">#DDA0DD</color>
+    <color name="plumColor">#8b668b</color>
+    <color name="pocket_color_1">#85edb9</color>
+    <color name="pocket_color_2">#34bdb7</color>
+    <color name="pocket_color_3">#ee4458</color>
+    <color name="pocket_color_4">#fcb74d</color>
+    <color name="powderblue">#B0E0E6</color>
+    <color name="purple">#800080</color>
+    <color name="raspberryColor">#872657</color>
+    <color name="red">#FF0000</color>
+    <color name="reveal_color">#bb333333</color>
+    <color name="right_column_bk">#9CCF00</color>
+    <color name="rippelColor">#FFFFFF</color>
+    <color name="robinEggColor">#8ddaf7</color>
+    <color name="rosybrown">#BC8F8F</color>
+    <color name="royalblue">#4169E1</color>
+    <color name="saddlebrown">#8B4513</color>
+    <color name="salmon">#FA8072</color>
+    <color name="salmonColor">#e9575f</color>
+    <color name="sandColor">#deb697</color>
+    <color name="sandybrown">#F4A460</color>
+    <color name="seafoamColor">#4de28c</color>
+    <color name="seagreen">#2E8B57</color>
+    <color name="seashell">#FFF5EE</color>
+    <color name="seashellColor">#fff5ee</color>
+    <color name="sienna">#A0522D</color>
+    <color name="siennaColor">#a0522d</color>
+    <color name="silver">#C0C0C0</color>
+    <color name="skyBlueColor">#00b2ee</color>
+    <color name="skyblue">#87CEEB</color>
+    <color name="slateblue">#6A5ACD</color>
+    <color name="slategray">#708090</color>
+    <color name="slategrey">#708090</color>
+    <color name="snow">#FFFAFA</color>
+    <color name="snowColor">#fffafa</color>
+    <color name="springgreen">#00FF7F</color>
+    <color name="steelBlueColor">#6799aa</color>
+    <color name="steelblue">#4682B4</color>
+    <color name="strawberryColor">#be2625</color>
+    <color name="successColor">#53d76a</color>
+    <color name="tan">#D2B48C</color>
+    <color name="teal">#008080</color>
+    <color name="tealColor">#1ca0aa</color>
+    <color name="thistle">#D8BFD8</color>
+    <color name="three3">#ff333333</color>
+    <color name="three6">#ff666666</color>
+    <color name="three9">#ff999999</color>
+    <color name="threec">#cccccc</color>
+    <color name="threee">#eeeeee</color>
+    <color name="toggleButton_bk">#FFFFFF</color>
+    <color name="tomato">#FF6347</color>
+    <color name="tomatoColor">#ff6347</color>
+    <color name="trans">#00000000</color>
+    <color name="transparent">#9000</color>
+    <color name="turquoise">#40E0D0</color>
+    <color name="turquoiseColor">#70dbdb</color>
+    <color name="txt_show_color">#ffffff</color>
+    <color name="txt_warnning_color">#FF0000</color>
+    <color name="violet">#EE82EE</color>
+    <color name="violetColor">#bf5fff</color>
+    <color name="warmGrayColor">#857570</color>
+    <color name="warningColor">#ddaa3b</color>
+    <color name="watermelonColor">#f2473f</color>
+    <color name="waveColor">#66a9fb</color>
+    <color name="wheat">#F5DEB3</color>
+    <color name="wheatColor">#f0eed7</color>
+    <color name="white">#ffffff</color>
+    <color name="white_translucent">#50FFFFFF</color>
+    <color name="whitesmoke">#F5F5F5</color>
+    <color name="word_color1">#F0F0F0</color>
+    <color name="word_color2">#AAAAAA</color>
+    <color name="yellow">#FFFF00</color>
+    <color name="yellowGreenColor">#c0f227</color>
+    <declare-styleable name="AddFloatingActionButton"><attr format="color" name="plusIconColor"/></declare-styleable>
+    <declare-styleable name="AutofitTextView"><attr format="dimension" name="minTextSize"/><attr format="float" name="precision"/><attr format="boolean" name="sizeToFit"/></declare-styleable>
+    <declare-styleable name="CardView"><attr format="color" name="cardBackgroundColor"/><attr format="dimension" name="cardCornerRadius"/><attr format="dimension" name="cardElevation"/><attr format="dimension" name="cardMaxElevation"/><attr format="boolean" name="cardUseCompatPadding"/><attr format="boolean" name="cardPreventCornerOverlap"/><attr format="dimension" name="contentPadding"/><attr format="dimension" name="contentPaddingLeft"/><attr format="dimension" name="contentPaddingRight"/><attr format="dimension" name="contentPaddingTop"/><attr format="dimension" name="contentPaddingBottom"/><attr name="android:minWidth"/><attr name="android:minHeight"/></declare-styleable>
+    <declare-styleable name="CircleButton"><attr format="color" name="cb_color"/><attr format="dimension" name="cb_pressed_ring_width"/></declare-styleable>
+    <declare-styleable name="CircleImageView"><attr format="dimension" name="border_widths"/><attr name="border_color"/></declare-styleable>
+    <declare-styleable name="CustomImageButton"><attr format="integer" name="ButtonImage"/><attr format="integer" name="ButtonText"/></declare-styleable>
+    <declare-styleable name="EdgeEffectView"><attr format="color" name="edgeeffect_color"/></declare-styleable>
+    <declare-styleable name="ExpandedCircleProgressView"><attr format="dimension" name="innerCircleSize"/><attr format="dimension" name="outerCircleSize"/><attr format="color" name="innerCircleColor"/><attr format="color" name="outerCircleColor"/><attr format="color" name="textProgressColor"/><attr format="color" name="progressCircleColor"/><attr format="dimension" name="outerCircleLineWidth"/><attr format="dimension" name="textProgressSize"/></declare-styleable>
+    <declare-styleable name="FloatLabelLayout"><attr format="reference" name="floatLabelTextAppearance"/><attr format="reference|dimension" name="floatLabelSidePadding"/></declare-styleable>
+    <declare-styleable name="FloatingActionsMenu"><attr format="color" name="addButtonColorPressed"/><attr format="color" name="addButtonColorNormal"/><attr format="color" name="addButtonPlusIconColor"/><attr format="boolean" name="addButtonIsHorizontal"/></declare-styleable>
+    <declare-styleable name="HoloCircularProgressBar"><attr format="dimension" name="stroke_width"/><attr format="float" name="progress"/><attr format="float" name="marker_progress"/><attr format="color" name="progress_color"/><attr format="color" name="progress_background_color"/><attr format="boolean" name="thumb_visible"/><attr format="boolean" name="marker_visible"/><attr name="android:gravity"/></declare-styleable>
+    <declare-styleable name="MarqueeView"><attr format="integer" name="marqueeSpeed"/><attr format="integer" name="pause"/><attr format="boolean" name="autoStart"/></declare-styleable>
+    <declare-styleable name="NumberProgressBar"><attr format="integer" name="progress_num"/><attr format="integer" name="max"/><attr format="color" name="progress_unreached_color"/><attr format="color" name="progress_reached_color"/><attr format="dimension" name="progress_reached_bar_height"/><attr format="dimension" name="progress_unreached_bar_height"/><attr format="dimension" name="progress_text_size"/><attr format="color" name="progress_text_color"/><attr format="dimension" name="progress_text_offset"/><attr format="enum" name="progress_text_visibility"><enum name="visible" value="0"/><enum name="invisible" value="1"/></attr></declare-styleable>
+    <declare-styleable name="NumberProgressBarStyle"><attr format="reference" name="numberProgressBarStyle"/></declare-styleable>
+    <declare-styleable name="PagerSlidingTabStrip"><attr format="color" name="pstsIndicatorColor"/><attr format="color" name="pstsUnderlineColor"/><attr format="color" name="pstsDividerColor"/><attr format="dimension" name="pstsIndicatorHeight"/><attr format="dimension" name="pstsUnderlineHeight"/><attr format="dimension" name="pstsDividerPadding"/><attr format="dimension" name="pstsTabPaddingLeftRight"/><attr format="dimension" name="pstsScrollOffset"/><attr format="reference" name="pstsTabBackground"/><attr format="boolean" name="pstsShouldExpand"/><attr format="boolean" name="pstsTextAllCaps"/></declare-styleable>
+    <declare-styleable name="ProgressWheel"><attr format="string" name="text"/><attr format="color" name="textColor"/><attr name="textSize"/><attr format="color" name="barColor"/><attr format="color" name="rimColor"/><attr format="dimension" name="rimWidth"/><attr format="dimension" name="spinSpeed"/><attr format="integer" name="delayMillis"/><attr format="color" name="circleColor"/><attr name="radius"/><attr format="dimension" name="barWidth"/><attr format="dimension" name="barLength"/><attr format="color" name="contourColor"/><attr format="dimension" name="contourSize"/></declare-styleable>
+    <declare-styleable name="RippleView"><attr format="integer" name="rv_alpha"/><attr format="integer" name="rv_framerate"/><attr format="integer" name="rv_rippleDuration"/><attr format="integer" name="rv_zoomDuration"/><attr format="color" name="rv_color"/><attr format="boolean" name="rv_centered"/><attr format="enum" name="rv_type"><enum name="simpleRipple" value="0"/><enum name="doubleRipple" value="1"/><enum name="rectangle" value="2"/></attr><attr format="dimension" name="rv_ripplePadding"/><attr format="boolean" name="rv_zoom"/></declare-styleable>
+    <declare-styleable name="RoundedImageView"><attr format="dimension" name="riv_corner_radius"/><attr format="dimension" name="riv_border_width"/><attr format="color" name="riv_border_color"/><attr format="boolean" name="riv_mutate_background"/><attr format="boolean" name="riv_oval"/><attr name="android:scaleType"/></declare-styleable>
+    <declare-styleable name="SlidingMenu"><attr name="rightPadding"/></declare-styleable>
+    <declare-styleable name="drop_down_list_attr"><attr format="boolean" name="isDropDownStyle"/><attr format="boolean" name="isOnBottomStyle"/><attr format="boolean" name="isAutoLoadOnBottom"/></declare-styleable>
+    <dimen name="activity_horizontal_margin">16dp</dimen>
+    <dimen name="activity_padding">10dp</dimen>
+    <dimen name="activity_vertical_margin">16dp</dimen>
+    <dimen name="button_fornt_size">20dp</dimen>
+    <dimen name="button_horizontal_margin">10dp</dimen>
+    <dimen name="button_vertical_margin">10dp</dimen>
+    <dimen name="cardview_compat_inset_shadow">1dp</dimen>
+    <dimen name="cardview_default_elevation">2dp</dimen>
+    <dimen name="cardview_default_radius">2dp</dimen>
+    <dimen name="sliding_menu_offset">50dp</dimen>
+    <dimen name="tag_count_fornt_size">30dp</dimen>
+    <dimen name="tag_times_formt_size">15dp</dimen>
+    <item name="id_circle_menu_item_center" type="id"/>
+    <item name="id_circle_menu_item_image" type="id"/>
+    <item name="id_circle_menu_item_text" type="id"/>
+    <integer name="pwd_length">8</integer>
+    <string name="DecImage">GetDecodedImage</string>
+    <string name="Params">Parameters</string>
+    <string name="TextView_ID">身份证</string>
+    <string name="TextView_amount">违章金额</string>
+    <string name="TextView_contact">联系方式</string>
+    <string name="TextView_credits">违章积分</string>
+    <string name="TextView_name">姓名</string>
+    <string name="TextView_number">档案编号</string>
+    <string name="TextView_records">违章记录</string>
+    <string name="TextView_time">违章时间</string>
+    <string name="ack">ACK</string>
+    <string name="action_settings">Settings</string>
+    <string name="always">Always</string>
+    <string name="app_exit">再按一次将退出程序</string>
+    <string name="app_name">客运站系统</string>
+    <string name="australia_post_text">Australia Post</string>
+    <string name="auto">Auto</string>
+    <string name="aztec_inverse_text">Aztec Inverse</string>
+    <string name="aztec_text">Aztec</string>
+    <string name="back">back</string>
+    <string name="barcode">Bar Code</string>
+    <string name="baudrate">波特率：</string>
+    <string name="beep">beep</string>
+    <string name="beidou">北斗</string>
+    <string name="blank"/>
+    <string name="bookland_ean_text">Bookland EAN</string>
+    <string name="bookland_isbn_format_text">Bookland ISBN Format</string>
+    <string name="bt_not_enabled_leaving">蓝牙未启用。程序退出</string>
+    <string name="button_ReadIBAN"> 读卡号</string>
+    <string name="button_break">连接</string>
+    <string name="button_clean">清屏</string>
+    <string name="button_cleantwo">清除输入框</string>
+    <string name="button_createfile">创建文件</string>
+    <string name="button_deletefile">删除文件</string>
+    <string name="button_getrandom">获取随机数</string>
+    <string name="button_initcard">初始化卡</string>
+    <string name="button_inv">搜索标签</string>
+    <string name="button_open">开启模块</string>
+    <string name="button_printer">打印</string>
+    <string name="button_read">读取</string>
+    <string name="button_write">写入</string>
+    <string name="calibration">校准</string>
+    <string name="calibration_fail">校准失败</string>
+    <string name="calibration_success">校准成功</string>
+    <string name="card_number">卡号</string>
+    <string name="card_to_area">请将卡放入读卡区</string>
+    <string name="checkBox_line_feed">换行输出</string>
+    <string name="checkBox_sixteen">十六进制显示</string>
+    <string name="clear_flash">清空指纹库</string>
+    <string name="clear_flash_fail">清空指纹库失败</string>
+    <string name="clear_flash_success">清空指纹库成功</string>
+    <string name="clear_scanner_time">清空</string>
+    <string name="clear_sfz">Clear</string>
+    <string name="close_fail">close bar code fail</string>
+    <string name="close_scan">close</string>
+    <string name="close_success">close bar code success</string>
+    <string name="codabar_text">Codabar</string>
+    <string name="code_11_text">Code 11</string>
+    <string name="code_128_emulation_text">Code 128 Emulation</string>
+    <string name="code_128_text">Code 128</string>
+    <string name="code_39_text">Code 39</string>
+    <string name="code_93_text">Code 93</string>
+    <string name="cpu_btn_getrandom">获取随机数</string>
+    <string name="cpu_btn_init">初始化</string>
+    <string name="cpu_choose_card">选卡</string>
+    <string name="cpu_coll_card">碰撞选卡</string>
+    <string name="cpu_conf_prof">配置读卡协议模式</string>
+    <string name="cpu_conf_reader">配置读卡器模式</string>
+    <string name="cpu_failure">操作失败</string>
+    <string name="cpu_getrandom_progress">获取随机数中...</string>
+    <string name="cpu_init_progress">初始化操作中...</string>
+    <string name="cpu_init_title">CPU卡初始化流程</string>
+    <string name="cpu_read_switch">读取切换</string>
+    <string name="cpu_reset">复位</string>
+    <string name="cpu_search_card">寻卡</string>
+    <string name="cpu_setting">设置读卡器的校验码</string>
+    <string name="cpu_show_data">显示测试结果</string>
+    <string name="cpu_success">操作成功</string>
+    <string name="cpu_switch_init">单步初始化操作</string>
+    <string name="ctf_text">Chinese 2 of 5</string>
+    <string name="data">data</string>
+    <string name="data_matrix">Data Matrix</string>
+    <string name="data_matrix_inverse_text">Data Matrix Inverse</string>
+    <string name="decode">Decode</string>
+    <string name="decode_fail">解码失败</string>
+    <string name="decode_mirror_images_text">Decode Mirror Images (Data Matrix Only)</string>
+    <string name="decoding">decoding</string>
+    <string name="dflparam">Defaults</string>
+    <string name="disable">disable</string>
+    <string name="disable_all_symbologies">Disable All Symbologies</string>
+    <string name="down_char_fail">验证失败</string>
+    <string name="dtf_text">Discrete 2 of 5</string>
+    <string name="duankai">断开</string>
+    <string name="ean_13_jan_13_text">EAN-13/JAN-13</string>
+    <string name="ean_8_jan_8_text">EAN-8/JAN-8</string>
+    <string name="enable">enable</string>
+    <string name="enable_isbn_10">Bookland ISBN-10</string>
+    <string name="enable_isbn_13">Bookland ISBN-13</string>
+    <string name="end_scan">结束扫描</string>
+    <string name="exit_toast">再按一次退出程序</string>
+    <string name="feature_settings">功能设置</string>
+    <string name="find">寻卡</string>
+    <string name="find_card_exception">可能是串口打开失败或其他异常</string>
+    <string name="find_fail">寻卡失败</string>
+    <string name="find_success">寻卡成功</string>
+    <string name="fingerprint">指纹</string>
+    <string name="first_card">请先读卡，再验证指纹！</string>
+    <string name="first_register">请先注册指纹！</string>
+    <string name="generate_char_fail">生成特征值失败！</string>
+    <string name="getcard_wait">正在获取卡号，请稍后...</string>
+    <string name="getparam">Get</string>
+    <string name="gs1_128_text">GS1-128 (formerly UCC/EAN-128)</string>
+    <string name="handsfree">Hands Free</string>
+    <string name="hanxin_text">Han Xin</string>
+    <string name="ic_failure">操作失败</string>
+    <string name="ic_get_random_success">获取随机数成功</string>
+    <string name="ic_init_failure">该卡初始化异常</string>
+    <string name="ic_init_success">该卡已初始化成功或个人化成功未被锁</string>
+    <string name="ic_ll_clear">清除</string>
+    <string name="ic_ll_clear_count">清除统计</string>
+    <string name="ic_ll_clear_show">清除显示</string>
+    <string name="ic_ll_cycle_close">关闭循环</string>
+    <string name="ic_ll_cycle_get">循环获取</string>
+    <string name="ic_ll_default_hex">默认填写十六进制数据</string>
+    <string name="ic_ll_get_random">获取随机数</string>
+    <string name="ic_ll_send">发送</string>
+    <string name="ic_ll_show_data">显示数据</string>
+    <string name="ic_ll_switch_cmd">切换指令</string>
+    <string name="ic_ll_tips">测试时，首先执行切换指令，返回成功后等待20s左右的时间插入IC卡，看是否有检测到IC卡，最后执行获取随机数\r\n执行建立MF或DF时必须手动执行对应的结束命令</string>
+    <string name="ic_not_empty">输入不能为空！</string>
+    <string name="ic_not_valid">输入不合法！</string>
+    <string name="ic_show_count">获取随机数次数统计 :</string>
+    <string name="ic_start_thread">已启动监听卡复位线程</string>
+    <string name="ic_success">操作成功</string>
+    <string name="ic_switch_cmd">切换指令:</string>
+    <string name="ic_switch_success">切换指令发送成功</string>
+    <string name="info_antenna_fail">天线参数设置失败</string>
+    <string name="info_connect_fail">连接失败</string>
+    <string name="info_connect_success">连接成功</string>
+    <string name="info_disconnect_fail">断开失败</string>
+    <string name="info_disconnect_success">断开成功</string>
+    <string name="info_inv_fail">搜索标签启动失败</string>
+    <string name="info_inv_success">开始搜索标签</string>
+    <string name="info_no_sel_tag">未选择要操作的标签</string>
+    <string name="info_no_tags">未发现任何标签</string>
+    <string name="info_oper_fail">操作失败</string>
+    <string name="info_readio_buzy">模块正在处理其他事务(如盘点),请稍后重试</string>
+    <string name="info_stopinv_fail">搜索标签停止失败</string>
+    <string name="info_stopinv_success">停止搜索标签</string>
+    <string name="info_tag_read_error">标签读取出错</string>
+    <string name="info_tag_write_error">标签写入出错</string>
+    <string name="info_write_length_error">数据长度与实际要写入的数据长度不符(字符数必须为数据长度的4倍)</string>
+    <string name="info_write_length_zero">写入数据长度不允许为0</string>
+    <string name="info_write_success">成功向标签写入数据</string>
+    <string name="init">初始化</string>
+    <string name="init_fail">初始化失败</string>
+    <string name="init_success">初始化成功</string>
+    <string name="inventory_over">盘点结束</string>
+    <string name="inverse_1d_text">Inverse 1D</string>
+    <string name="inverse_autodetect">Inverse Autodetect</string>
+    <string name="inverse_only">Inverse Only</string>
+    <string name="isbt_128_text">ISBT 128</string>
+    <string name="issn_ean_text">ISSN EAN</string>
+    <string name="itf_text">Interleaved 2 of 5</string>
+    <string name="japan_postal_text">Japan Postal</string>
+    <string name="ktf_text">Korean 3 of 5</string>
+    <string name="loop_read">循环读取</string>
+    <string name="m1_block_num">块号：</string>
+    <string name="m1_card_name">卡号：</string>
+    <string name="m1_card_type">卡片类型：</string>
+    <string name="m1_get_card">获取卡号</string>
+    <string name="m1_get_numblock">获取指定块数据</string>
+    <string name="m1_hint_tips12">请写入12个0-9，A-F，a-f之间的字符</string>
+    <string name="m1_hint_tips32">请写入32个0-9，A-F，a-f之间的字符</string>
+    <string name="m1_io">I/O操作功能</string>
+    <string name="m1_necessary_done">必要操作功能</string>
+    <string name="m1_new_pwd">新密码：</string>
+    <string name="m1_pwd_type">密码类型：</string>
+    <string name="m1_pwda">密码A：</string>
+    <string name="m1_pwdb">密码B：</string>
+    <string name="m1_read_block">读块数据：</string>
+    <string name="m1_send_pwd">发送密码</string>
+    <string name="m1_show_card">显示卡号</string>
+    <string name="m1_str_all_not_empty">密码A、密码B或写入数据不能为空</string>
+    <string name="m1_str_all_not_validate">密码A、密码B或写入数据不合法</string>
+    <string name="m1_str_block_not_empty">块号不能为空</string>
+    <string name="m1_str_get_success">获取卡号成功</string>
+    <string name="m1_str_not_empty">密码A、密码B不能为空</string>
+    <string name="m1_str_update_pwd_failure">修改密码失败</string>
+    <string name="m1_str_update_pwd_success">修改密码成功</string>
+    <string name="m1_title">M1卡功能演示Demo</string>
+    <string name="m1_update_numblock">修改指定块密码</string>
+    <string name="m1_valid_pwd">认证密码</string>
+    <string name="m1_write_block">写块数据：</string>
+    <string name="m1_write_numblock">写入指定块数据</string>
+    <string name="maxicode_text">Maxicode</string>
+    <string name="micro_pdf417_text">MicroPDF417</string>
+    <string name="micro_qr_text">MicroQR</string>
+    <string name="mode_switch_command">模式切换命令</string>
+    <string name="msi_text">MSI</string>
+    <string name="mtf_text">Matrix 2 of 5</string>
+    <string name="nak">NAK</string>
+    <string name="netherlands_kix_code_text">Netherlands KIX Code</string>
+    <string name="never">Never</string>
+    <string name="no_card_with_data">未寻到卡,有返回数据</string>
+    <string name="no_card_without_data">未寻到卡,无返回数据，超时！！</string>
+    <string name="no_null_toast">数据不能为空！</string>
+    <string name="not_connected">你没有连接到一个设备</string>
+    <string name="not_init">Not initialized!</string>
+    <string name="not_open">Not open!</string>
+    <string name="one_d_symbologies">1D Symbologies</string>
+    <string name="open_fail">open bar code fail</string>
+    <string name="open_sanner">Is opening the scanner</string>
+    <string name="open_serial_fail">打开串口失败！</string>
+    <string name="open_success">open bar code success</string>
+    <string name="optional">(选填)</string>
+    <string name="output_mode">输出模式为第几种：</string>
+    <string name="packetformat">packetformat</string>
+    <string name="pdf417_text">PDF417</string>
+    <string name="pin">身份证</string>
+    <string name="playone_mode">声音和震动：</string>
+    <string name="pnum">Number</string>
+    <string name="postal_codes">Postal Codes</string>
+    <string name="power">功率：</string>
+    <string name="prefix">前缀：</string>
+    <string name="prepare_dialog">正在准备，请稍候...</string>
+    <string name="preview">Preview</string>
+    <string name="print_finger">请按指纹！</string>
+    <string name="print_finger_again">请再次按指纹！</string>
+    <string name="processing">指纹采集成功，正在上传处理...</string>
+    <string name="prompt_message">没有数据可供查看</string>
+    <string name="prop">Properties</string>
+    <string name="pval">Value</string>
+    <string name="qr_code_text">QR Code</string>
+    <string name="qr_inverse_text">QR Inverse</string>
+    <string name="radioMale">十六进制输出</string>
+    <string name="read_15693">读卡</string>
+    <string name="read_15693_fail">读卡失败</string>
+    <string name="read_15693_success">读卡成功</string>
+    <string name="read_block_num">读入块号：</string>
+    <string name="read_card">读卡</string>
+    <string name="read_card_fail">Did not find a card</string>
+    <string name="read_card_success">Successful reader</string>
+    <string name="read_data">读入数据：</string>
+    <string name="read_sfz">Reader</string>
+    <string name="read_time">读取次数：</string>
+    <string name="read_toast">读入 时块号不能为空</string>
+    <string name="reading">Reading Pane</string>
+    <string name="reading_fail">读卡失败</string>
+    <string name="reading_success">读卡成功</string>
+    <string name="reading_wait">正在读卡，请稍后...</string>
+    <string name="recv">读卡</string>
+    <string name="reg_model_fail">合成模板失败！</string>
+    <string name="reg_model_success">合成模板成功！</string>
+    <string name="register_fail">注册失败！</string>
+    <string name="register_fingerprint">注册指纹</string>
+    <string name="register_success">注册成功！</string>
+    <string name="regular">Regular</string>
+    <string name="restore">Set Factory Defaults</string>
+    <string name="rfid">RFID</string>
+    <string name="scan">scan</string>
+    <string name="scan_parameter">Scan Configuration Parameter</string>
+    <string name="scan_settings">设置</string>
+    <string name="scanner_loop">循环扫描：</string>
+    <string name="scanner_status">扫描仪当前状态：</string>
+    <string name="scanner_total">总共：</string>
+    <string name="sdl">SDLtestApp</string>
+    <string name="send">写卡</string>
+    <string name="sequential_sfz">Continuous reader</string>
+    <string name="setHost">setHost</string>
+    <string name="set_fail">Failed to set</string>
+    <string name="set_host">Set Host</string>
+    <string name="set_success">Set successfully</string>
+    <string name="setparam">Set</string>
+    <string name="setting">设置</string>
+    <string name="snap">Snapshot</string>
+    <string name="snapping">taking snapshot</string>
+    <string name="start_control_command">启动控制命令</string>
+    <string name="start_scan">开始扫描</string>
+    <string name="startdecode">startdecode</string>
+    <string name="stat">status</string>
+    <string name="statement_frequency_command">语句及其频度控制命令</string>
+    <string name="stop">Stop</string>
+    <string name="str_conn">连接设备</string>
+    <string name="str_do_conn">正在连接设备，请稍后...</string>
+    <string name="success_time">成功：</string>
+    <string name="suffix">后缀：</string>
+    <string name="tab_read">标签读取</string>
+    <string name="tab_write">标签写入</string>
+    <string name="terminal_char">终结字符为第几种：</string>
+    <string name="title_connected_to">已连接: </string>
+    <string name="title_connecting">正在连接...</string>
+    <string name="title_not_connected">未连接</string>
+    <string name="trioptic_code_39_text">Trioptic Code 39</string>
+    <string name="two_d_symbologies">2D Symbologies</string>
+    <string name="txt_accesspwd">访问密码:</string>
+    <string name="txt_cancel">取消</string>
+    <string name="txt_count">0000</string>
+    <string name="txt_length">数据长度:</string>
+    <string name="txt_null">N/A</string>
+    <string name="txt_offset">偏移地址:</string>
+    <string name="txt_ok">确定</string>
+    <string name="txt_pwdzero">00000000</string>
+    <string name="txt_read_eare">读取区域:</string>
+    <string name="txt_tag_tit">选中标签:</string>
+    <string name="txt_write_eare">写入区域:</string>
+    <string name="ucc_coupon_extended_code_text">UCC COUPON EXTENDED CODE</string>
+    <string name="uk_postal_text">UK Postal</string>
+    <string name="up_image_fail">上传指纹图像失败</string>
+    <string name="up_image_success">上传指纹图像成功</string>
+    <string name="upc_a_text">UPC-A</string>
+    <string name="upc_e1_text">UPC-E1</string>
+    <string name="upc_e_text">UPC-E</string>
+    <string name="update">修改</string>
+    <string name="update_password">修改密码</string>
+    <string name="updatepwding_wait">正在修改密码，请稍后...</string>
+    <string name="upu_fics_postal_text">UPU FICS Postal</string>
+    <string name="us_planet_text">US Planet</string>
+    <string name="us_postnet_text">US Postnet</string>
+    <string name="usps_4cb_one_code_intelligent_mail_text">USPS 4CB/One Code/Intelligent Mail</string>
+    <string name="validate_fingerprint">验证指纹</string>
+    <string name="verifying_fail">验证失败</string>
+    <string name="verifying_through">验证通过</string>
+    <string name="verifying_wait">正在验证，请稍后...</string>
+    <string name="video">Video</string>
+    <string name="volume">音量：</string>
+    <string name="write_15693">写卡</string>
+    <string name="write_15693_fail">写卡失败</string>
+    <string name="write_15693_success">写卡成功</string>
+    <string name="write_block_num">写入块号：</string>
+    <string name="write_card">写卡</string>
+    <string name="write_data">写入数据：</string>
+    <string name="write_data_toast">写入数据和块号不能为空</string>
+    <string name="write_password">密码：</string>
+    <string name="write_toast">写入时 块号、数据不能为空</string>
+    <string name="writing_fail">写卡失败</string>
+    <string name="writing_success">写卡成功</string>
+    <string name="writing_wait">正在写卡，请稍后...</string>
+    <style name="AppBaseTheme" parent="android:Theme.Light.NoTitleBar">
+        <!-- API 14 theme customizations can go here. -->
+    </style>
+    <style name="AppTheme" parent="AppBaseTheme">
+        <!-- All customizations that are NOT specific to a particular API-level can go here. -->
+    </style>
+    <style name="CardView">
+        <item name="cardBackgroundColor">@color/cardview_light_background</item>
+        <item name="cardCornerRadius">@dimen/cardview_default_radius</item>
+        <item name="cardElevation">@dimen/cardview_default_elevation</item>
+        <item name="cardMaxElevation">@dimen/cardview_default_elevation</item>
+        <item name="cardUseCompatPadding">false</item>
+        <item name="cardPreventCornerOverlap">true</item>
+    </style>
+    <style name="CardView.Dark">
+        <item name="cardBackgroundColor">@color/cardview_dark_background</item>
+    </style>
+    <style name="CardView.Light">
+        <item name="cardBackgroundColor">@color/cardview_light_background</item>
+    </style>
+    <style name="Dialog" parent="android:style/Theme.Dialog">
+        <item name="android:background">#00000000</item>
+        <item name="android:windowBackground">@android:color/transparent</item>
+        <item name="android:windowNoTitle">true</item>
+        <item name="android:windowIsFloating">true</item>
+    </style>
+    <style name="MyDialog" parent="android:style/Theme.Dialog">
+        <item name="android:windowNoTitle">true</item>
+        <item name="android:background">#00000000</item>
+        <item name="android:windowBackground">@android:color/transparent</item>
+        <item name="android:colorBackgroundCacheHint">@null</item>
+        <item name="android:windowIsTranslucent">true</item>
+    </style>
+</resources>

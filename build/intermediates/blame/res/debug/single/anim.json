@@ -1,0 +1,194 @@
+[
+    {
+        "merged": "E:\\tianmen\\Authentication5.0\\build\\intermediates\\res\\merged\\debug\\anim\\abc_shrink_fade_out_from_bottom.xml",
+        "source": "E:\\tianmen\\Authentication5.0\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.2.0\\res\\anim\\abc_shrink_fade_out_from_bottom.xml"
+    },
+    {
+        "merged": "E:\\tianmen\\Authentication5.0\\build\\intermediates\\res\\merged\\debug\\anim\\hold.xml",
+        "source": "E:\\tianmen\\Authentication5.0\\res\\anim\\hold.xml"
+    },
+    {
+        "merged": "E:\\tianmen\\Authentication5.0\\build\\intermediates\\res\\merged\\debug\\anim\\cycle_5.xml",
+        "source": "E:\\tianmen\\Authentication5.0\\res\\anim\\cycle_5.xml"
+    },
+    {
+        "merged": "E:\\tianmen\\Authentication5.0\\build\\intermediates\\res\\merged\\debug\\anim\\ac_transition_fade_out.xml",
+        "source": "E:\\tianmen\\Authentication5.0\\res\\anim\\ac_transition_fade_out.xml"
+    },
+    {
+        "merged": "E:\\tianmen\\Authentication5.0\\build\\intermediates\\res\\merged\\debug\\anim\\ac_transition_disappear_bottom_right_out.xml",
+        "source": "E:\\tianmen\\Authentication5.0\\res\\anim\\ac_transition_disappear_bottom_right_out.xml"
+    },
+    {
+        "merged": "E:\\tianmen\\Authentication5.0\\build\\intermediates\\res\\merged\\debug\\anim\\ac_transition_disappear_bottom_right_in.xml",
+        "source": "E:\\tianmen\\Authentication5.0\\res\\anim\\ac_transition_disappear_bottom_right_in.xml"
+    },
+    {
+        "merged": "E:\\tianmen\\Authentication5.0\\build\\intermediates\\res\\merged\\debug\\anim\\ac_transition_flip_horizontal_out.xml",
+        "source": "E:\\tianmen\\Authentication5.0\\res\\anim\\ac_transition_flip_horizontal_out.xml"
+    },
+    {
+        "merged": "E:\\tianmen\\Authentication5.0\\build\\intermediates\\res\\merged\\debug\\anim\\abc_grow_fade_in_from_bottom.xml",
+        "source": "E:\\tianmen\\Authentication5.0\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.2.0\\res\\anim\\abc_grow_fade_in_from_bottom.xml"
+    },
+    {
+        "merged": "E:\\tianmen\\Authentication5.0\\build\\intermediates\\res\\merged\\debug\\anim\\design_bottom_sheet_slide_in.xml",
+        "source": "E:\\tianmen\\Authentication5.0\\build\\intermediates\\exploded-aar\\com.android.support\\design\\23.2.0\\res\\anim\\design_bottom_sheet_slide_in.xml"
+    },
+    {
+        "merged": "E:\\tianmen\\Authentication5.0\\build\\intermediates\\res\\merged\\debug\\anim\\ripple_zoom.xml",
+        "source": "E:\\tianmen\\Authentication5.0\\res\\anim\\ripple_zoom.xml"
+    },
+    {
+        "merged": "E:\\tianmen\\Authentication5.0\\build\\intermediates\\res\\merged\\debug\\anim\\abc_fade_in.xml",
+        "source": "E:\\tianmen\\Authentication5.0\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.2.0\\res\\anim\\abc_fade_in.xml"
+    },
+    {
+        "merged": "E:\\tianmen\\Authentication5.0\\build\\intermediates\\res\\merged\\debug\\anim\\ac_transition_fade_in.xml",
+        "source": "E:\\tianmen\\Authentication5.0\\res\\anim\\ac_transition_fade_in.xml"
+    },
+    {
+        "merged": "E:\\tianmen\\Authentication5.0\\build\\intermediates\\res\\merged\\debug\\anim\\ac_transition_flip_horizontal_in.xml",
+        "source": "E:\\tianmen\\Authentication5.0\\res\\anim\\ac_transition_flip_horizontal_in.xml"
+    },
+    {
+        "merged": "E:\\tianmen\\Authentication5.0\\build\\intermediates\\res\\merged\\debug\\anim\\ac_transition_disappear_top_left_out.xml",
+        "source": "E:\\tianmen\\Authentication5.0\\res\\anim\\ac_transition_disappear_top_left_out.xml"
+    },
+    {
+        "merged": "E:\\tianmen\\Authentication5.0\\build\\intermediates\\res\\merged\\debug\\anim\\base_slide_right_in.xml",
+        "source": "E:\\tianmen\\Authentication5.0\\res\\anim\\base_slide_right_in.xml"
+    },
+    {
+        "merged": "E:\\tianmen\\Authentication5.0\\build\\intermediates\\res\\merged\\debug\\anim\\fade_in.xml",
+        "source": "E:\\tianmen\\Authentication5.0\\res\\anim\\fade_in.xml"
+    },
+    {
+        "merged": "E:\\tianmen\\Authentication5.0\\build\\intermediates\\res\\merged\\debug\\anim\\translate1.xml",
+        "source": "E:\\tianmen\\Authentication5.0\\res\\anim\\translate1.xml"
+    },
+    {
+        "merged": "E:\\tianmen\\Authentication5.0\\build\\intermediates\\res\\merged\\debug\\anim\\abc_slide_out_bottom.xml",
+        "source": "E:\\tianmen\\Authentication5.0\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.2.0\\res\\anim\\abc_slide_out_bottom.xml"
+    },
+    {
+        "merged": "E:\\tianmen\\Authentication5.0\\build\\intermediates\\res\\merged\\debug\\anim\\translate.xml",
+        "source": "E:\\tianmen\\Authentication5.0\\res\\anim\\translate.xml"
+    },
+    {
+        "merged": "E:\\tianmen\\Authentication5.0\\build\\intermediates\\res\\merged\\debug\\anim\\abc_popup_exit.xml",
+        "source": "E:\\tianmen\\Authentication5.0\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.2.0\\res\\anim\\abc_popup_exit.xml"
+    },
+    {
+        "merged": "E:\\tianmen\\Authentication5.0\\build\\intermediates\\res\\merged\\debug\\anim\\base_slide_remain.xml",
+        "source": "E:\\tianmen\\Authentication5.0\\res\\anim\\base_slide_remain.xml"
+    },
+    {
+        "merged": "E:\\tianmen\\Authentication5.0\\build\\intermediates\\res\\merged\\debug\\anim\\ac_transition_appear_bottom_right_out.xml",
+        "source": "E:\\tianmen\\Authentication5.0\\res\\anim\\ac_transition_appear_bottom_right_out.xml"
+    },
+    {
+        "merged": "E:\\tianmen\\Authentication5.0\\build\\intermediates\\res\\merged\\debug\\anim\\ac_transition_appear_top_left_in.xml",
+        "source": "E:\\tianmen\\Authentication5.0\\res\\anim\\ac_transition_appear_top_left_in.xml"
+    },
+    {
+        "merged": "E:\\tianmen\\Authentication5.0\\build\\intermediates\\res\\merged\\debug\\anim\\slide_down.xml",
+        "source": "E:\\tianmen\\Authentication5.0\\res\\anim\\slide_down.xml"
+    },
+    {
+        "merged": "E:\\tianmen\\Authentication5.0\\build\\intermediates\\res\\merged\\debug\\anim\\ac_transition_appear_top_left_out.xml",
+        "source": "E:\\tianmen\\Authentication5.0\\res\\anim\\ac_transition_appear_top_left_out.xml"
+    },
+    {
+        "merged": "E:\\tianmen\\Authentication5.0\\build\\intermediates\\res\\merged\\debug\\anim\\abc_popup_enter.xml",
+        "source": "E:\\tianmen\\Authentication5.0\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.2.0\\res\\anim\\abc_popup_enter.xml"
+    },
+    {
+        "merged": "E:\\tianmen\\Authentication5.0\\build\\intermediates\\res\\merged\\debug\\anim\\do_nothing.xml",
+        "source": "E:\\tianmen\\Authentication5.0\\res\\anim\\do_nothing.xml"
+    },
+    {
+        "merged": "E:\\tianmen\\Authentication5.0\\build\\intermediates\\res\\merged\\debug\\anim\\ac_transition_disappear_top_left_in.xml",
+        "source": "E:\\tianmen\\Authentication5.0\\res\\anim\\ac_transition_disappear_top_left_in.xml"
+    },
+    {
+        "merged": "E:\\tianmen\\Authentication5.0\\build\\intermediates\\res\\merged\\debug\\anim\\design_fab_in.xml",
+        "source": "E:\\tianmen\\Authentication5.0\\build\\intermediates\\exploded-aar\\com.android.support\\design\\23.2.0\\res\\anim\\design_fab_in.xml"
+    },
+    {
+        "merged": "E:\\tianmen\\Authentication5.0\\build\\intermediates\\res\\merged\\debug\\anim\\design_bottom_sheet_slide_out.xml",
+        "source": "E:\\tianmen\\Authentication5.0\\build\\intermediates\\exploded-aar\\com.android.support\\design\\23.2.0\\res\\anim\\design_bottom_sheet_slide_out.xml"
+    },
+    {
+        "merged": "E:\\tianmen\\Authentication5.0\\build\\intermediates\\res\\merged\\debug\\anim\\abc_fade_out.xml",
+        "source": "E:\\tianmen\\Authentication5.0\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.2.0\\res\\anim\\abc_fade_out.xml"
+    },
+    {
+        "merged": "E:\\tianmen\\Authentication5.0\\build\\intermediates\\res\\merged\\debug\\anim\\pocket_interpolator.xml",
+        "source": "E:\\tianmen\\Authentication5.0\\res\\anim\\pocket_interpolator.xml"
+    },
+    {
+        "merged": "E:\\tianmen\\Authentication5.0\\build\\intermediates\\res\\merged\\debug\\anim\\abc_slide_out_top.xml",
+        "source": "E:\\tianmen\\Authentication5.0\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.2.0\\res\\anim\\abc_slide_out_top.xml"
+    },
+    {
+        "merged": "E:\\tianmen\\Authentication5.0\\build\\intermediates\\res\\merged\\debug\\anim\\slide_up.xml",
+        "source": "E:\\tianmen\\Authentication5.0\\res\\anim\\slide_up.xml"
+    },
+    {
+        "merged": "E:\\tianmen\\Authentication5.0\\build\\intermediates\\res\\merged\\debug\\anim\\ac_transition_appear_bottom_right_in.xml",
+        "source": "E:\\tianmen\\Authentication5.0\\res\\anim\\ac_transition_appear_bottom_right_in.xml"
+    },
+    {
+        "merged": "E:\\tianmen\\Authentication5.0\\build\\intermediates\\res\\merged\\debug\\anim\\abc_slide_in_bottom.xml",
+        "source": "E:\\tianmen\\Authentication5.0\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.2.0\\res\\anim\\abc_slide_in_bottom.xml"
+    },
+    {
+        "merged": "E:\\tianmen\\Authentication5.0\\build\\intermediates\\res\\merged\\debug\\anim\\base_slide_right_out.xml",
+        "source": "E:\\tianmen\\Authentication5.0\\res\\anim\\base_slide_right_out.xml"
+    },
+    {
+        "merged": "E:\\tianmen\\Authentication5.0\\build\\intermediates\\res\\merged\\debug\\anim\\design_fab_out.xml",
+        "source": "E:\\tianmen\\Authentication5.0\\build\\intermediates\\exploded-aar\\com.android.support\\design\\23.2.0\\res\\anim\\design_fab_out.xml"
+    },
+    {
+        "merged": "E:\\tianmen\\Authentication5.0\\build\\intermediates\\res\\merged\\debug\\anim\\ac_transition_unzoom_in.xml",
+        "source": "E:\\tianmen\\Authentication5.0\\res\\anim\\ac_transition_unzoom_in.xml"
+    },
+    {
+        "merged": "E:\\tianmen\\Authentication5.0\\build\\intermediates\\res\\merged\\debug\\anim\\fade_out.xml",
+        "source": "E:\\tianmen\\Authentication5.0\\res\\anim\\fade_out.xml"
+    },
+    {
+        "merged": "E:\\tianmen\\Authentication5.0\\build\\intermediates\\res\\merged\\debug\\anim\\ac_transition_flip_vertical_out.xml",
+        "source": "E:\\tianmen\\Authentication5.0\\res\\anim\\ac_transition_flip_vertical_out.xml"
+    },
+    {
+        "merged": "E:\\tianmen\\Authentication5.0\\build\\intermediates\\res\\merged\\debug\\anim\\ac_transition_unzoom_out.xml",
+        "source": "E:\\tianmen\\Authentication5.0\\res\\anim\\ac_transition_unzoom_out.xml"
+    },
+    {
+        "merged": "E:\\tianmen\\Authentication5.0\\build\\intermediates\\res\\merged\\debug\\anim\\abc_slide_in_top.xml",
+        "source": "E:\\tianmen\\Authentication5.0\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.2.0\\res\\anim\\abc_slide_in_top.xml"
+    },
+    {
+        "merged": "E:\\tianmen\\Authentication5.0\\build\\intermediates\\res\\merged\\debug\\anim\\slide_up_short.xml",
+        "source": "E:\\tianmen\\Authentication5.0\\res\\anim\\slide_up_short.xml"
+    },
+    {
+        "merged": "E:\\tianmen\\Authentication5.0\\build\\intermediates\\res\\merged\\debug\\anim\\design_snackbar_in.xml",
+        "source": "E:\\tianmen\\Authentication5.0\\build\\intermediates\\exploded-aar\\com.android.support\\design\\23.2.0\\res\\anim\\design_snackbar_in.xml"
+    },
+    {
+        "merged": "E:\\tianmen\\Authentication5.0\\build\\intermediates\\res\\merged\\debug\\anim\\design_snackbar_out.xml",
+        "source": "E:\\tianmen\\Authentication5.0\\build\\intermediates\\exploded-aar\\com.android.support\\design\\23.2.0\\res\\anim\\design_snackbar_out.xml"
+    },
+    {
+        "merged": "E:\\tianmen\\Authentication5.0\\build\\intermediates\\res\\merged\\debug\\anim\\ac_transition_flip_vertical_in.xml",
+        "source": "E:\\tianmen\\Authentication5.0\\res\\anim\\ac_transition_flip_vertical_in.xml"
+    },
+    {
+        "merged": "E:\\tianmen\\Authentication5.0\\build\\intermediates\\res\\merged\\debug\\anim\\shake.xml",
+        "source": "E:\\tianmen\\Authentication5.0\\res\\anim\\shake.xml"
+    }
+]

@@ -1,0 +1,410 @@
+[
+    {
+        "merged": "E:\\tianmen\\Authentication5.0\\build\\intermediates\\res\\merged\\debug\\drawable\\btn_xuangua_pressed.xml",
+        "source": "E:\\tianmen\\Authentication5.0\\res\\drawable\\btn_xuangua_pressed.xml"
+    },
+    {
+        "merged": "E:\\tianmen\\Authentication5.0\\build\\intermediates\\res\\merged\\debug\\drawable\\btn_chuzhanmodule_pressed.xml",
+        "source": "E:\\tianmen\\Authentication5.0\\res\\drawable\\btn_chuzhanmodule_pressed.xml"
+    },
+    {
+        "merged": "E:\\tianmen\\Authentication5.0\\build\\intermediates\\res\\merged\\debug\\drawable\\btn_hg_button_pressed.xml",
+        "source": "E:\\tianmen\\Authentication5.0\\res\\drawable\\btn_hg_button_pressed.xml"
+    },
+    {
+        "merged": "E:\\tianmen\\Authentication5.0\\build\\intermediates\\res\\merged\\debug\\drawable\\btn_jinzhanmodule_pressed.xml",
+        "source": "E:\\tianmen\\Authentication5.0\\res\\drawable\\btn_jinzhanmodule_pressed.xml"
+    },
+    {
+        "merged": "E:\\tianmen\\Authentication5.0\\build\\intermediates\\res\\merged\\debug\\drawable\\btn_waiguan_pressed.xml",
+        "source": "E:\\tianmen\\Authentication5.0\\res\\drawable\\btn_waiguan_pressed.xml"
+    },
+    {
+        "merged": "E:\\tianmen\\Authentication5.0\\build\\intermediates\\res\\merged\\debug\\drawable\\btn_mclosedoor_pressed.xml",
+        "source": "E:\\tianmen\\Authentication5.0\\res\\drawable\\btn_mclosedoor_pressed.xml"
+    },
+    {
+        "merged": "E:\\tianmen\\Authentication5.0\\build\\intermediates\\res\\merged\\debug\\drawable\\btn_shexiangtou_h_pressed.xml",
+        "source": "E:\\tianmen\\Authentication5.0\\res\\drawable\\btn_shexiangtou_h_pressed.xml"
+    },
+    {
+        "merged": "E:\\tianmen\\Authentication5.0\\build\\intermediates\\res\\merged\\debug\\drawable\\btn_zhiwen_pressed.xml",
+        "source": "E:\\tianmen\\Authentication5.0\\res\\drawable\\btn_zhiwen_pressed.xml"
+    },
+    {
+        "merged": "E:\\tianmen\\Authentication5.0\\build\\intermediates\\res\\merged\\debug\\drawable\\btn_zhishideng_b_pressed.xml",
+        "source": "E:\\tianmen\\Authentication5.0\\res\\drawable\\btn_zhishideng_b_pressed.xml"
+    },
+    {
+        "merged": "E:\\tianmen\\Authentication5.0\\build\\intermediates\\res\\merged\\debug\\drawable\\btn_canshumodule_pressed.xml",
+        "source": "E:\\tianmen\\Authentication5.0\\res\\drawable\\btn_canshumodule_pressed.xml"
+    },
+    {
+        "merged": "E:\\tianmen\\Authentication5.0\\build\\intermediates\\res\\merged\\debug\\drawable\\btn_mopendoor_pressed.xml",
+        "source": "E:\\tianmen\\Authentication5.0\\res\\drawable\\btn_mopendoor_pressed.xml"
+    },
+    {
+        "merged": "E:\\tianmen\\Authentication5.0\\build\\intermediates\\res\\merged\\debug\\drawable\\btn_bg.xml",
+        "source": "E:\\tianmen\\Authentication5.0\\res\\drawable\\btn_bg.xml"
+    },
+    {
+        "merged": "E:\\tianmen\\Authentication5.0\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_btn_borderless_material.xml",
+        "source": "E:\\tianmen\\Authentication5.0\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.2.0\\res\\drawable\\abc_btn_borderless_material.xml"
+    },
+    {
+        "merged": "E:\\tianmen\\Authentication5.0\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_list_selector_holo_light.xml",
+        "source": "E:\\tianmen\\Authentication5.0\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.2.0\\res\\drawable\\abc_list_selector_holo_light.xml"
+    },
+    {
+        "merged": "E:\\tianmen\\Authentication5.0\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_tab_indicator_material.xml",
+        "source": "E:\\tianmen\\Authentication5.0\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.2.0\\res\\drawable\\abc_tab_indicator_material.xml"
+    },
+    {
+        "merged": "E:\\tianmen\\Authentication5.0\\build\\intermediates\\res\\merged\\debug\\drawable\\btn_unconventionexitstationway_pressed.xml",
+        "source": "E:\\tianmen\\Authentication5.0\\res\\drawable\\btn_unconventionexitstationway_pressed.xml"
+    },
+    {
+        "merged": "E:\\tianmen\\Authentication5.0\\build\\intermediates\\res\\merged\\debug\\drawable\\btn_unconventioninspectionway_pressed.xml",
+        "source": "E:\\tianmen\\Authentication5.0\\res\\drawable\\btn_unconventioninspectionway_pressed.xml"
+    },
+    {
+        "merged": "E:\\tianmen\\Authentication5.0\\build\\intermediates\\res\\merged\\debug\\drawable\\btn_toggle.xml",
+        "source": "E:\\tianmen\\Authentication5.0\\res\\drawable\\btn_toggle.xml"
+    },
+    {
+        "merged": "E:\\tianmen\\Authentication5.0\\build\\intermediates\\res\\merged\\debug\\drawable\\btn_unconventioninstationway_pressed.xml",
+        "source": "E:\\tianmen\\Authentication5.0\\res\\drawable\\btn_unconventioninstationway_pressed.xml"
+    },
+    {
+        "merged": "E:\\tianmen\\Authentication5.0\\build\\intermediates\\res\\merged\\debug\\drawable\\btn_rfid_pressed.xml",
+        "source": "E:\\tianmen\\Authentication5.0\\res\\drawable\\btn_rfid_pressed.xml"
+    },
+    {
+        "merged": "E:\\tianmen\\Authentication5.0\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_edit_text_material.xml",
+        "source": "E:\\tianmen\\Authentication5.0\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.2.0\\res\\drawable\\abc_edit_text_material.xml"
+    },
+    {
+        "merged": "E:\\tianmen\\Authentication5.0\\build\\intermediates\\res\\merged\\debug\\drawable\\btn_restetdoor_pressed.xml",
+        "source": "E:\\tianmen\\Authentication5.0\\res\\drawable\\btn_restetdoor_pressed.xml"
+    },
+    {
+        "merged": "E:\\tianmen\\Authentication5.0\\build\\intermediates\\res\\merged\\debug\\drawable\\btn_waiguan_h_pressed.xml",
+        "source": "E:\\tianmen\\Authentication5.0\\res\\drawable\\btn_waiguan_h_pressed.xml"
+    },
+    {
+        "merged": "E:\\tianmen\\Authentication5.0\\build\\intermediates\\res\\merged\\debug\\drawable\\btn_hs_button_pressed.xml",
+        "source": "E:\\tianmen\\Authentication5.0\\res\\drawable\\btn_hs_button_pressed.xml"
+    },
+    {
+        "merged": "E:\\tianmen\\Authentication5.0\\build\\intermediates\\res\\merged\\debug\\drawable\\btn_waiguan_b_pressed.xml",
+        "source": "E:\\tianmen\\Authentication5.0\\res\\drawable\\btn_waiguan_b_pressed.xml"
+    },
+    {
+        "merged": "E:\\tianmen\\Authentication5.0\\build\\intermediates\\res\\merged\\debug\\drawable\\dialog_bottom_bg.xml",
+        "source": "E:\\tianmen\\Authentication5.0\\res\\drawable\\dialog_bottom_bg.xml"
+    },
+    {
+        "merged": "E:\\tianmen\\Authentication5.0\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_ratingbar_small_material.xml",
+        "source": "E:\\tianmen\\Authentication5.0\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.2.0\\res\\drawable\\abc_ratingbar_small_material.xml"
+    },
+    {
+        "merged": "E:\\tianmen\\Authentication5.0\\build\\intermediates\\res\\merged\\debug\\drawable\\btn_cancel_selector.xml",
+        "source": "E:\\tianmen\\Authentication5.0\\res\\drawable\\btn_cancel_selector.xml"
+    },
+    {
+        "merged": "E:\\tianmen\\Authentication5.0\\build\\intermediates\\res\\merged\\debug\\drawable\\youjian.xml",
+        "source": "E:\\tianmen\\Authentication5.0\\res\\drawable\\youjian.xml"
+    },
+    {
+        "merged": "E:\\tianmen\\Authentication5.0\\build\\intermediates\\res\\merged\\debug\\drawable\\btn_exitstationway_pressed.xml",
+        "source": "E:\\tianmen\\Authentication5.0\\res\\drawable\\btn_exitstationway_pressed.xml"
+    },
+    {
+        "merged": "E:\\tianmen\\Authentication5.0\\build\\intermediates\\res\\merged\\debug\\drawable\\btn_reset_pressed.xml",
+        "source": "E:\\tianmen\\Authentication5.0\\res\\drawable\\btn_reset_pressed.xml"
+    },
+    {
+        "merged": "E:\\tianmen\\Authentication5.0\\build\\intermediates\\res\\merged\\debug\\drawable\\btn_chuandong_pressed.xml",
+        "source": "E:\\tianmen\\Authentication5.0\\res\\drawable\\btn_chuandong_pressed.xml"
+    },
+    {
+        "merged": "E:\\tianmen\\Authentication5.0\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_btn_colored_material.xml",
+        "source": "E:\\tianmen\\Authentication5.0\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.2.0\\res\\drawable\\abc_btn_colored_material.xml"
+    },
+    {
+        "merged": "E:\\tianmen\\Authentication5.0\\build\\intermediates\\res\\merged\\debug\\drawable\\btn_logout_selector.xml",
+        "source": "E:\\tianmen\\Authentication5.0\\res\\drawable\\btn_logout_selector.xml"
+    },
+    {
+        "merged": "E:\\tianmen\\Authentication5.0\\build\\intermediates\\res\\merged\\debug\\drawable\\btn_anquanmodule_pressed.xml",
+        "source": "E:\\tianmen\\Authentication5.0\\res\\drawable\\btn_anquanmodule_pressed.xml"
+    },
+    {
+        "merged": "E:\\tianmen\\Authentication5.0\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_btn_check_material.xml",
+        "source": "E:\\tianmen\\Authentication5.0\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.2.0\\res\\drawable\\abc_btn_check_material.xml"
+    },
+    {
+        "merged": "E:\\tianmen\\Authentication5.0\\build\\intermediates\\res\\merged\\debug\\drawable\\btn_zhidong_pressed.xml",
+        "source": "E:\\tianmen\\Authentication5.0\\res\\drawable\\btn_zhidong_pressed.xml"
+    },
+    {
+        "merged": "E:\\tianmen\\Authentication5.0\\build\\intermediates\\res\\merged\\debug\\drawable\\btn_login_pressed.xml",
+        "source": "E:\\tianmen\\Authentication5.0\\res\\drawable\\btn_login_pressed.xml"
+    },
+    {
+        "merged": "E:\\tianmen\\Authentication5.0\\build\\intermediates\\res\\merged\\debug\\drawable\\btn_chuandong_h_pressed.xml",
+        "source": "E:\\tianmen\\Authentication5.0\\res\\drawable\\btn_chuandong_h_pressed.xml"
+    },
+    {
+        "merged": "E:\\tianmen\\Authentication5.0\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_btn_radio_material.xml",
+        "source": "E:\\tianmen\\Authentication5.0\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.2.0\\res\\drawable\\abc_btn_radio_material.xml"
+    },
+    {
+        "merged": "E:\\tianmen\\Authentication5.0\\build\\intermediates\\res\\merged\\debug\\drawable\\btn_yijianhg_pressed.xml",
+        "source": "E:\\tianmen\\Authentication5.0\\res\\drawable\\btn_yijianhg_pressed.xml"
+    },
+    {
+        "merged": "E:\\tianmen\\Authentication5.0\\build\\intermediates\\res\\merged\\debug\\drawable\\btn_zhishideng_h_pressed.xml",
+        "source": "E:\\tianmen\\Authentication5.0\\res\\drawable\\btn_zhishideng_h_pressed.xml"
+    },
+    {
+        "merged": "E:\\tianmen\\Authentication5.0\\build\\intermediates\\res\\merged\\debug\\drawable\\btn_takephoto_pressed.xml",
+        "source": "E:\\tianmen\\Authentication5.0\\res\\drawable\\btn_takephoto_pressed.xml"
+    },
+    {
+        "merged": "E:\\tianmen\\Authentication5.0\\build\\intermediates\\res\\merged\\debug\\drawable\\btn_shexiangtou_b_pressed.xml",
+        "source": "E:\\tianmen\\Authentication5.0\\res\\drawable\\btn_shexiangtou_b_pressed.xml"
+    },
+    {
+        "merged": "E:\\tianmen\\Authentication5.0\\build\\intermediates\\res\\merged\\debug\\drawable\\btn_xiazaibiaoge_pressed.xml",
+        "source": "E:\\tianmen\\Authentication5.0\\res\\drawable\\btn_xiazaibiaoge_pressed.xml"
+    },
+    {
+        "merged": "E:\\tianmen\\Authentication5.0\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_dialog_material_background_light.xml",
+        "source": "E:\\tianmen\\Authentication5.0\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.2.0\\res\\drawable\\abc_dialog_material_background_light.xml"
+    },
+    {
+        "merged": "E:\\tianmen\\Authentication5.0\\build\\intermediates\\res\\merged\\debug\\drawable\\btn_luntai_h_pressed.xml",
+        "source": "E:\\tianmen\\Authentication5.0\\res\\drawable\\btn_luntai_h_pressed.xml"
+    },
+    {
+        "merged": "E:\\tianmen\\Authentication5.0\\build\\intermediates\\res\\merged\\debug\\drawable\\btn_anquan_b_pressed.xml",
+        "source": "E:\\tianmen\\Authentication5.0\\res\\drawable\\btn_anquan_b_pressed.xml"
+    },
+    {
+        "merged": "E:\\tianmen\\Authentication5.0\\build\\intermediates\\res\\merged\\debug\\drawable\\btn_shexiangtou_pressed.xml",
+        "source": "E:\\tianmen\\Authentication5.0\\res\\drawable\\btn_shexiangtou_pressed.xml"
+    },
+    {
+        "merged": "E:\\tianmen\\Authentication5.0\\build\\intermediates\\res\\merged\\debug\\drawable\\btn_ok_selector.xml",
+        "source": "E:\\tianmen\\Authentication5.0\\res\\drawable\\btn_ok_selector.xml"
+    },
+    {
+        "merged": "E:\\tianmen\\Authentication5.0\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_spinner_textfield_background_material.xml",
+        "source": "E:\\tianmen\\Authentication5.0\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.2.0\\res\\drawable\\abc_spinner_textfield_background_material.xml"
+    },
+    {
+        "merged": "E:\\tianmen\\Authentication5.0\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_switch_thumb_material.xml",
+        "source": "E:\\tianmen\\Authentication5.0\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.2.0\\res\\drawable\\abc_switch_thumb_material.xml"
+    },
+    {
+        "merged": "E:\\tianmen\\Authentication5.0\\build\\intermediates\\res\\merged\\debug\\drawable\\bg_alibuybutton_pressed.xml",
+        "source": "E:\\tianmen\\Authentication5.0\\res\\drawable\\bg_alibuybutton_pressed.xml"
+    },
+    {
+        "merged": "E:\\tianmen\\Authentication5.0\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_seekbar_track_material.xml",
+        "source": "E:\\tianmen\\Authentication5.0\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.2.0\\res\\drawable\\abc_seekbar_track_material.xml"
+    },
+    {
+        "merged": "E:\\tianmen\\Authentication5.0\\build\\intermediates\\res\\merged\\debug\\drawable\\btn_zhishideng_pressed.xml",
+        "source": "E:\\tianmen\\Authentication5.0\\res\\drawable\\btn_zhishideng_pressed.xml"
+    },
+    {
+        "merged": "E:\\tianmen\\Authentication5.0\\build\\intermediates\\res\\merged\\debug\\drawable\\btn_closedoor_pressed.xml",
+        "source": "E:\\tianmen\\Authentication5.0\\res\\drawable\\btn_closedoor_pressed.xml"
+    },
+    {
+        "merged": "E:\\tianmen\\Authentication5.0\\build\\intermediates\\res\\merged\\debug\\drawable\\btn_xuangua_b_pressed.xml",
+        "source": "E:\\tianmen\\Authentication5.0\\res\\drawable\\btn_xuangua_b_pressed.xml"
+    },
+    {
+        "merged": "E:\\tianmen\\Authentication5.0\\build\\intermediates\\res\\merged\\debug\\drawable\\btn_zhidong_h_pressed.xml",
+        "source": "E:\\tianmen\\Authentication5.0\\res\\drawable\\btn_zhidong_h_pressed.xml"
+    },
+    {
+        "merged": "E:\\tianmen\\Authentication5.0\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_ratingbar_full_material.xml",
+        "source": "E:\\tianmen\\Authentication5.0\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.2.0\\res\\drawable\\abc_ratingbar_full_material.xml"
+    },
+    {
+        "merged": "E:\\tianmen\\Authentication5.0\\build\\intermediates\\res\\merged\\debug\\drawable\\btn_zhuanxiang_pressed.xml",
+        "source": "E:\\tianmen\\Authentication5.0\\res\\drawable\\btn_zhuanxiang_pressed.xml"
+    },
+    {
+        "merged": "E:\\tianmen\\Authentication5.0\\build\\intermediates\\res\\merged\\debug\\drawable\\bg_alibuybutton_default.xml",
+        "source": "E:\\tianmen\\Authentication5.0\\res\\drawable\\bg_alibuybutton_default.xml"
+    },
+    {
+        "merged": "E:\\tianmen\\Authentication5.0\\build\\intermediates\\res\\merged\\debug\\drawable\\btn_luntai_b_pressed.xml",
+        "source": "E:\\tianmen\\Authentication5.0\\res\\drawable\\btn_luntai_b_pressed.xml"
+    },
+    {
+        "merged": "E:\\tianmen\\Authentication5.0\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_item_background_holo_light.xml",
+        "source": "E:\\tianmen\\Authentication5.0\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.2.0\\res\\drawable\\abc_item_background_holo_light.xml"
+    },
+    {
+        "merged": "E:\\tianmen\\Authentication5.0\\build\\intermediates\\res\\merged\\debug\\drawable\\btn_toggle_bg.xml",
+        "source": "E:\\tianmen\\Authentication5.0\\res\\drawable\\btn_toggle_bg.xml"
+    },
+    {
+        "merged": "E:\\tianmen\\Authentication5.0\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_cab_background_top_material.xml",
+        "source": "E:\\tianmen\\Authentication5.0\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.2.0\\res\\drawable\\abc_cab_background_top_material.xml"
+    },
+    {
+        "merged": "E:\\tianmen\\Authentication5.0\\build\\intermediates\\res\\merged\\debug\\drawable\\btn_progressbar.xml",
+        "source": "E:\\tianmen\\Authentication5.0\\res\\drawable\\btn_progressbar.xml"
+    },
+    {
+        "merged": "E:\\tianmen\\Authentication5.0\\build\\intermediates\\res\\merged\\debug\\drawable\\design_snackbar_background.xml",
+        "source": "E:\\tianmen\\Authentication5.0\\build\\intermediates\\exploded-aar\\com.android.support\\design\\23.2.0\\res\\drawable\\design_snackbar_background.xml"
+    },
+    {
+        "merged": "E:\\tianmen\\Authentication5.0\\build\\intermediates\\res\\merged\\debug\\drawable\\btn_tongbumodule_pressed.xml",
+        "source": "E:\\tianmen\\Authentication5.0\\res\\drawable\\btn_tongbumodule_pressed.xml"
+    },
+    {
+        "merged": "E:\\tianmen\\Authentication5.0\\build\\intermediates\\res\\merged\\debug\\drawable\\btn_tijiao_pressed.xml",
+        "source": "E:\\tianmen\\Authentication5.0\\res\\drawable\\btn_tijiao_pressed.xml"
+    },
+    {
+        "merged": "E:\\tianmen\\Authentication5.0\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_item_background_holo_dark.xml",
+        "source": "E:\\tianmen\\Authentication5.0\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.2.0\\res\\drawable\\abc_item_background_holo_dark.xml"
+    },
+    {
+        "merged": "E:\\tianmen\\Authentication5.0\\build\\intermediates\\res\\merged\\debug\\drawable\\btn_paizhao1_pressed.xml",
+        "source": "E:\\tianmen\\Authentication5.0\\res\\drawable\\btn_paizhao1_pressed.xml"
+    },
+    {
+        "merged": "E:\\tianmen\\Authentication5.0\\build\\intermediates\\res\\merged\\debug\\drawable\\btn_zhuanxiang_b_pressed.xml",
+        "source": "E:\\tianmen\\Authentication5.0\\res\\drawable\\btn_zhuanxiang_b_pressed.xml"
+    },
+    {
+        "merged": "E:\\tianmen\\Authentication5.0\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_list_selector_holo_dark.xml",
+        "source": "E:\\tianmen\\Authentication5.0\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.2.0\\res\\drawable\\abc_list_selector_holo_dark.xml"
+    },
+    {
+        "merged": "E:\\tianmen\\Authentication5.0\\build\\intermediates\\res\\merged\\debug\\drawable\\bg_alibuybutton_selected.xml",
+        "source": "E:\\tianmen\\Authentication5.0\\res\\drawable\\bg_alibuybutton_selected.xml"
+    },
+    {
+        "merged": "E:\\tianmen\\Authentication5.0\\build\\intermediates\\res\\merged\\debug\\drawable\\btn_lianwangtb_pressed.xml",
+        "source": "E:\\tianmen\\Authentication5.0\\res\\drawable\\btn_lianwangtb_pressed.xml"
+    },
+    {
+        "merged": "E:\\tianmen\\Authentication5.0\\build\\intermediates\\res\\merged\\debug\\drawable\\btn_zhuanxiang_h_pressed.xml",
+        "source": "E:\\tianmen\\Authentication5.0\\res\\drawable\\btn_zhuanxiang_h_pressed.xml"
+    },
+    {
+        "merged": "E:\\tianmen\\Authentication5.0\\build\\intermediates\\res\\merged\\debug\\drawable\\design_fab_background.xml",
+        "source": "E:\\tianmen\\Authentication5.0\\build\\intermediates\\exploded-aar\\com.android.support\\design\\23.2.0\\res\\drawable\\design_fab_background.xml"
+    },
+    {
+        "merged": "E:\\tianmen\\Authentication5.0\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_seekbar_thumb_material.xml",
+        "source": "E:\\tianmen\\Authentication5.0\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.2.0\\res\\drawable\\abc_seekbar_thumb_material.xml"
+    },
+    {
+        "merged": "E:\\tianmen\\Authentication5.0\\build\\intermediates\\res\\merged\\debug\\drawable\\btn_save_pressed.xml",
+        "source": "E:\\tianmen\\Authentication5.0\\res\\drawable\\btn_save_pressed.xml"
+    },
+    {
+        "merged": "E:\\tianmen\\Authentication5.0\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_textfield_search_material.xml",
+        "source": "E:\\tianmen\\Authentication5.0\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.2.0\\res\\drawable\\abc_textfield_search_material.xml"
+    },
+    {
+        "merged": "E:\\tianmen\\Authentication5.0\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_btn_default_mtrl_shape.xml",
+        "source": "E:\\tianmen\\Authentication5.0\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.2.0\\res\\drawable\\abc_btn_default_mtrl_shape.xml"
+    },
+    {
+        "merged": "E:\\tianmen\\Authentication5.0\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_ratingbar_indicator_material.xml",
+        "source": "E:\\tianmen\\Authentication5.0\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.2.0\\res\\drawable\\abc_ratingbar_indicator_material.xml"
+    },
+    {
+        "merged": "E:\\tianmen\\Authentication5.0\\build\\intermediates\\res\\merged\\debug\\drawable\\btn_wenbentb_pressed.xml",
+        "source": "E:\\tianmen\\Authentication5.0\\res\\drawable\\btn_wenbentb_pressed.xml"
+    },
+    {
+        "merged": "E:\\tianmen\\Authentication5.0\\build\\intermediates\\res\\merged\\debug\\drawable\\btn_chuandong_b_pressed.xml",
+        "source": "E:\\tianmen\\Authentication5.0\\res\\drawable\\btn_chuandong_b_pressed.xml"
+    },
+    {
+        "merged": "E:\\tianmen\\Authentication5.0\\build\\intermediates\\res\\merged\\debug\\drawable\\btn_luntai_pressed.xml",
+        "source": "E:\\tianmen\\Authentication5.0\\res\\drawable\\btn_luntai_pressed.xml"
+    },
+    {
+        "merged": "E:\\tianmen\\Authentication5.0\\build\\intermediates\\res\\merged\\debug\\drawable\\btn_composer_camera_pressed.xml",
+        "source": "E:\\tianmen\\Authentication5.0\\res\\drawable\\btn_composer_camera_pressed.xml"
+    },
+    {
+        "merged": "E:\\tianmen\\Authentication5.0\\build\\intermediates\\res\\merged\\debug\\drawable\\btn_instationway_pressed.xml",
+        "source": "E:\\tianmen\\Authentication5.0\\res\\drawable\\btn_instationway_pressed.xml"
+    },
+    {
+        "merged": "E:\\tianmen\\Authentication5.0\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_dialog_material_background_dark.xml",
+        "source": "E:\\tianmen\\Authentication5.0\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.2.0\\res\\drawable\\abc_dialog_material_background_dark.xml"
+    },
+    {
+        "merged": "E:\\tianmen\\Authentication5.0\\build\\intermediates\\res\\merged\\debug\\drawable\\btn_zhidong_b_pressed.xml",
+        "source": "E:\\tianmen\\Authentication5.0\\res\\drawable\\btn_zhidong_b_pressed.xml"
+    },
+    {
+        "merged": "E:\\tianmen\\Authentication5.0\\build\\intermediates\\res\\merged\\debug\\drawable\\btn_anquan_h_pressed.xml",
+        "source": "E:\\tianmen\\Authentication5.0\\res\\drawable\\btn_anquan_h_pressed.xml"
+    },
+    {
+        "merged": "E:\\tianmen\\Authentication5.0\\build\\intermediates\\res\\merged\\debug\\drawable\\btn_opendoor_pressed.xml",
+        "source": "E:\\tianmen\\Authentication5.0\\res\\drawable\\btn_opendoor_pressed.xml"
+    },
+    {
+        "merged": "E:\\tianmen\\Authentication5.0\\build\\intermediates\\res\\merged\\debug\\drawable\\btn_bhgbutton_pressed.xml",
+        "source": "E:\\tianmen\\Authentication5.0\\res\\drawable\\btn_bhgbutton_pressed.xml"
+    },
+    {
+        "merged": "E:\\tianmen\\Authentication5.0\\build\\intermediates\\res\\merged\\debug\\drawable\\btn_inspectionway_pressed.xml",
+        "source": "E:\\tianmen\\Authentication5.0\\res\\drawable\\btn_inspectionway_pressed.xml"
+    },
+    {
+        "merged": "E:\\tianmen\\Authentication5.0\\build\\intermediates\\res\\merged\\debug\\drawable\\btn_xuangua_h_pressed.xml",
+        "source": "E:\\tianmen\\Authentication5.0\\res\\drawable\\btn_xuangua_h_pressed.xml"
+    },
+    {
+        "merged": "E:\\tianmen\\Authentication5.0\\build\\intermediates\\res\\merged\\debug\\drawable\\txt_borad_bg.xml",
+        "source": "E:\\tianmen\\Authentication5.0\\res\\drawable\\txt_borad_bg.xml"
+    },
+    {
+        "merged": "E:\\tianmen\\Authentication5.0\\build\\intermediates\\res\\merged\\debug\\drawable\\btn_user_center_pressed.xml",
+        "source": "E:\\tianmen\\Authentication5.0\\res\\drawable\\btn_user_center_pressed.xml"
+    },
+    {
+        "merged": "E:\\tianmen\\Authentication5.0\\build\\intermediates\\res\\merged\\debug\\drawable\\zuojian.xml",
+        "source": "E:\\tianmen\\Authentication5.0\\res\\drawable\\zuojian.xml"
+    },
+    {
+        "merged": "E:\\tianmen\\Authentication5.0\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_cab_background_internal_bg.xml",
+        "source": "E:\\tianmen\\Authentication5.0\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.2.0\\res\\drawable\\abc_cab_background_internal_bg.xml"
+    },
+    {
+        "merged": "E:\\tianmen\\Authentication5.0\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_list_selector_background_transition_holo_light.xml",
+        "source": "E:\\tianmen\\Authentication5.0\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.2.0\\res\\drawable\\abc_list_selector_background_transition_holo_light.xml"
+    },
+    {
+        "merged": "E:\\tianmen\\Authentication5.0\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_list_selector_background_transition_holo_dark.xml",
+        "source": "E:\\tianmen\\Authentication5.0\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.2.0\\res\\drawable\\abc_list_selector_background_transition_holo_dark.xml"
+    },
+    {
+        "merged": "E:\\tianmen\\Authentication5.0\\build\\intermediates\\res\\merged\\debug\\drawable\\btn_anquan_pressed.xml",
+        "source": "E:\\tianmen\\Authentication5.0\\res\\drawable\\btn_anquan_pressed.xml"
+    },
+    {
+        "merged": "E:\\tianmen\\Authentication5.0\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_text_cursor_material.xml",
+        "source": "E:\\tianmen\\Authentication5.0\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.2.0\\res\\drawable\\abc_text_cursor_material.xml"
+    }
+]
